@@ -1,0 +1,1001 @@
+employee_id,age,gender,education_level,department,job_level,years_experience,salary,training_hours,absenteeism_days,projects_completed,overtime_hours,manager_rating,employee_satisfaction,years_since_promotion,performance_score,performance_label
+1001,25,Female,Bachelor's,Support,Senior,0,85708,12,1,5,0,2.5,3.9,6,68.45,Medium
+1002,47,Male,Bachelor's,Marketing,Senior,3,74059,12,6,2,1,5.0,1.2,2,67.78,Medium
+1003,22,Male,High School,Marketing,Manager,0,115597,5,1,6,14,4.5,1.7,1,66.66,Medium
+1004,29,Male,Bachelor's,Operations,Junior,7,49493,50,0,6,1,3.1,2.6,0,83.0,High
+1005,27,Female,PhD,Marketing,Senior,0,69760,0,2,1,0,2.6,1.8,3,54.7,Medium
+1006,45,Male,Bachelor's,Sales,Lead,14,109404,7,1,4,10,3.9,2.9,0,85.59,High
+1007,30,Female,Master's,Operations,Junior,3,45264,4,9,10,9,2.4,1.6,2,63.73,Medium
+1008,36,Male,Bachelor's,Marketing,Junior,13,58107,41,6,7,1,3.3,4.2,5,92.47,High
+1009,28,Female,Bachelor's,Support,Senior,3,76066,13,4,3,1,2.5,1.9,2,58.15,Medium
+1010,33,Non-Binary,Bachelor's,Sales,Mid,3,58901,1,1,9,19,2.7,3.0,10,61.81,Medium
+1011,28,Female,Master's,Support,Junior,4,51720,20,3,3,0,2.7,3.4,2,68.64,Medium
+1012,32,Male,High School,HR,Manager,4,121044,22,5,5,1,4.7,1.9,0,76.69,High
+1013,35,Male,Bachelor's,Engineering,Manager,12,126907,4,1,6,15,3.6,2.6,5,82.21,High
+1014,43,Male,Bachelor's,Operations,Senior,0,75874,23,4,2,2,2.4,2.3,3,61.75,Medium
+1015,53,Female,Bachelor's,Support,Mid,8,65334,17,15,6,4,3.2,2.4,2,69.8,Medium
+1016,38,Female,Bachelor's,Finance,Junior,10,51379,68,13,6,15,2.5,4.4,0,60.14,Medium
+1017,27,Female,PhD,Sales,Senior,3,79368,80,0,7,10,3.2,3.8,3,77.39,High
+1018,27,Male,Bachelor's,Support,Senior,0,72220,43,0,4,6,4.7,2.3,0,76.3,High
+1019,27,Male,Bachelor's,Operations,Junior,3,41925,29,0,3,0,3.4,3.1,1,78.95,High
+1020,41,Non-Binary,Master's,Marketing,Junior,7,56364,5,0,4,0,4.6,1.2,6,77.39,High
+1021,24,Male,Bachelor's,Support,Senior,2,81989,26,3,2,2,4.7,2.4,3,74.58,Medium
+1022,41,Male,Master's,Finance,Lead,6,112765,0,11,4,17,3.2,3.2,2,55.22,Medium
+1023,39,Female,Master's,Support,Senior,10,92162,2,6,5,13,4.1,3.6,0,70.07,Medium
+1024,29,Male,High School,Operations,Senior,0,79424,0,6,4,2,3.5,3.5,5,50.23,Medium
+1025,48,Male,PhD,Finance,Mid,15,63627,26,0,5,16,2.0,3.2,0,89.78,High
+1026,41,Male,PhD,HR,Mid,16,77609,9,0,4,18,3.0,4.8,7,76.95,High
+1027,43,Male,High School,HR,Junior,4,55516,58,6,8,27,3.5,3.8,4,61.82,Medium
+1028,35,Female,High School,Operations,Lead,9,111571,58,17,4,11,2.6,4.1,2,57.05,Medium
+1029,30,Male,Bachelor's,HR,Mid,5,53540,27,5,6,9,3.8,2.0,1,78.61,High
+1030,34,Male,PhD,Engineering,Junior,12,55520,1,3,5,27,5.0,3.8,1,74.82,Medium
+1031,33,Female,Bachelor's,Marketing,Senior,1,73196,8,0,2,2,4.5,2.1,1,66.01,Medium
+1032,22,Male,Bachelor's,Support,Lead,0,98709,10,10,7,16,4.1,4.9,0,54.32,Medium
+1033,29,Female,Bachelor's,Marketing,Lead,0,95549,2,0,5,6,2.8,4.0,6,70.38,Medium
+1034,39,Female,Bachelor's,Sales,Mid,2,58001,5,4,6,7,2.5,3.7,1,63.28,Medium
+1035,38,Female,Bachelor's,Operations,Lead,8,111310,10,6,7,18,3.6,3.5,9,75.84,High
+1036,45,Male,PhD,Support,Mid,12,66966,19,7,7,23,1.8,2.8,9,69.38,Medium
+1037,38,Male,Bachelor's,Marketing,Senior,7,73087,17,2,3,9,3.6,2.6,5,81.07,High
+1038,35,Male,High School,Marketing,Junior,3,43064,4,1,2,5,3.1,4.2,2,61.57,Medium
+1039,36,Male,Bachelor's,Support,Mid,14,67923,15,10,6,6,2.6,3.9,0,81.67,High
+1040,38,Male,Bachelor's,HR,Mid,9,61747,9,0,3,3,2.7,1.5,5,70.47,Medium
+1041,55,Male,Bachelor's,Finance,Senior,25,101879,16,3,0,3,4.1,4.6,2,80.66,High
+1042,22,Female,Bachelor's,Operations,Junior,0,36746,4,1,4,1,1.2,4.9,0,55.64,Medium
+1043,34,Female,PhD,Sales,Junior,9,53057,34,5,1,14,5.0,1.8,8,75.46,High
+1044,40,Male,Bachelor's,Finance,Senior,5,75304,13,3,5,0,2.5,1.3,10,66.56,Medium
+1045,54,Female,High School,Marketing,Junior,26,68177,2,7,3,21,4.4,5.0,0,67.27,Medium
+1046,33,Male,Master's,Operations,Lead,9,108380,4,1,5,8,3.0,3.4,2,83.33,High
+1047,22,Female,Master's,Support,Senior,0,82554,8,1,3,2,3.2,3.2,1,68.06,Medium
+1048,27,Male,Master's,Sales,Senior,3,79509,3,1,5,2,4.4,4.5,1,75.71,High
+1049,35,Male,Bachelor's,Operations,Mid,7,75928,13,2,7,10,4.8,3.4,4,84.65,High
+1050,37,Male,Bachelor's,Operations,Manager,2,113302,18,0,10,16,3.3,3.8,6,79.5,High
+1051,47,Male,Bachelor's,Support,Senior,24,101243,51,2,10,4,3.6,1.2,1,97.95,High
+1052,22,Female,PhD,Engineering,Mid,0,55806,0,9,6,2,2.2,1.1,0,53.91,Medium
+1053,26,Female,Master's,Marketing,Junior,4,47383,3,2,10,0,3.2,4.0,0,77.14,High
+1054,36,Female,Bachelor's,Marketing,Lead,8,109799,15,3,2,5,4.5,1.4,1,78.43,High
+1055,26,Female,Bachelor's,Support,Mid,0,63761,3,5,4,2,3.2,1.9,2,54.1,Medium
+1056,38,Female,Master's,Engineering,Lead,16,120449,65,11,5,1,1.8,1.3,2,71.9,Medium
+1057,22,Male,High School,Engineering,Junior,0,48823,34,1,3,7,2.1,2.1,2,69.09,Medium
+1058,22,Female,Bachelor's,Sales,Manager,0,110832,80,2,3,1,5.0,4.0,3,62.36,Medium
+1059,35,Male,Bachelor's,Engineering,Lead,2,99137,6,0,1,6,3.6,3.6,4,65.62,Medium
+1060,42,Female,Bachelor's,Finance,Senior,17,102419,10,1,4,25,3.0,4.7,3,74.83,Medium
+1061,34,Female,Bachelor's,HR,Manager,3,108004,15,0,5,24,3.4,1.6,2,53.42,Medium
+1062,32,Male,Master's,Engineering,Senior,5,85928,65,6,3,9,2.5,4.8,3,72.38,Medium
+1063,31,Female,Master's,Support,Senior,4,82964,5,17,5,1,3.4,3.3,6,54.49,Medium
+1064,33,Male,Master's,Sales,Senior,0,81783,20,4,0,3,2.5,4.5,1,67.67,Medium
+1065,46,Female,High School,Sales,Mid,7,64382,19,8,2,0,3.7,4.5,0,65.23,Medium
+1066,43,Male,High School,HR,Junior,1,41078,17,1,3,4,3.0,3.1,3,61.84,Medium
+1067,26,Male,Bachelor's,Engineering,Mid,0,51161,0,17,1,9,2.2,1.9,7,38.64,Low
+1068,33,Female,PhD,Operations,Manager,8,118854,36,1,3,14,2.9,4.8,4,77.18,High
+1069,32,Male,PhD,Marketing,Lead,8,98732,23,0,3,2,3.7,3.1,2,82.04,High
+1070,36,Male,Bachelor's,Engineering,Mid,0,57533,26,1,4,2,3.2,4.8,0,67.28,Medium
+1071,55,Male,Master's,Finance,Mid,28,85945,8,4,1,16,3.6,4.2,2,75.08,High
+1072,39,Female,Bachelor's,Engineering,Senior,3,83801,0,6,4,2,4.5,2.0,0,64.87,Medium
+1073,41,Female,PhD,Marketing,Senior,10,80248,30,0,5,26,4.5,2.4,2,82.9,High
+1074,38,Female,Bachelor's,Sales,Senior,12,85922,1,7,4,36,2.7,3.6,2,54.84,Medium
+1075,47,Male,High School,Finance,Mid,17,75071,11,1,2,12,3.1,3.8,0,76.58,High
+1076,30,Male,Master's,Operations,Manager,0,112154,38,13,5,11,1.7,2.3,3,49.13,Low
+1077,42,Male,High School,Sales,Senior,9,84085,68,0,5,11,3.6,4.4,3,80.32,High
+1078,37,Female,PhD,Marketing,Junior,7,41269,16,1,6,1,2.1,3.4,1,83.02,High
+1079,37,Male,Bachelor's,Marketing,Senior,11,87838,21,5,6,1,3.9,1.4,2,85.74,High
+1080,31,Female,Bachelor's,Finance,Junior,3,39218,8,0,5,0,2.4,3.3,2,65.18,Medium
+1081,36,Female,High School,Sales,Senior,9,90201,18,1,7,7,3.6,2.9,2,96.62,High
+1082,44,Male,Master's,Operations,Mid,16,70942,41,0,4,29,2.4,4.2,2,71.48,Medium
+1083,39,Male,High School,HR,Senior,8,74612,1,2,4,1,2.1,4.4,0,63.73,Medium
+1084,39,Female,Master's,Finance,Senior,9,90561,17,0,10,4,4.4,4.2,2,100.0,High
+1085,46,Female,PhD,HR,Junior,18,68500,2,5,5,5,3.0,2.0,5,84.39,High
+1086,22,Female,High School,Engineering,Senior,0,80235,0,3,4,7,2.1,1.9,5,51.29,Medium
+1087,32,Male,Bachelor's,Operations,Mid,2,63568,19,4,4,0,2.9,3.9,2,69.46,Medium
+1088,34,Male,Master's,Finance,Senior,7,81791,1,4,4,2,3.4,3.8,1,66.32,Medium
+1089,42,Non-Binary,High School,Sales,Manager,9,122532,14,2,3,0,3.5,2.2,3,76.55,High
+1090,26,Male,Master's,Sales,Junior,1,40685,5,7,4,15,2.9,4.2,6,53.02,Medium
+1091,28,Male,Master's,Engineering,Mid,4,61283,80,0,4,16,3.5,4.1,2,76.66,High
+1092,37,Female,PhD,Marketing,Mid,14,69978,40,1,6,2,2.1,3.5,2,96.66,High
+1093,29,Female,Bachelor's,Support,Mid,1,49584,1,3,7,4,4.4,2.5,4,60.5,Medium
+1094,53,Female,Bachelor's,Marketing,Junior,16,58450,10,3,1,10,3.3,4.3,1,82.68,High
+1095,25,Male,PhD,Support,Senior,1,73789,4,0,5,8,5.0,4.7,1,75.78,High
+1096,36,Female,Bachelor's,Operations,Mid,1,58950,4,2,3,9,3.3,2.0,8,60.05,Medium
+1097,26,Male,Master's,Finance,Mid,0,55342,20,2,7,8,3.5,1.7,1,78.91,High
+1098,37,Male,Master's,Engineering,Mid,13,79697,2,3,3,4,2.2,3.9,4,76.14,High
+1099,29,Male,Bachelor's,Support,Mid,5,57785,5,3,6,9,2.0,2.8,1,73.37,Medium
+1100,30,Female,Bachelor's,Finance,Mid,0,52091,5,1,2,0,2.6,4.2,0,54.93,Medium
+1101,33,Male,Bachelor's,Marketing,Senior,2,69709,1,1,1,6,2.7,1.4,8,63.04,Medium
+1102,40,Male,High School,Support,Mid,14,78370,31,10,2,2,2.3,5.0,6,68.53,Medium
+1103,41,Male,Master's,Finance,Junior,17,56968,18,2,4,3,2.9,2.5,1,87.34,High
+1104,22,Male,Bachelor's,HR,Senior,0,74969,80,7,6,1,2.8,4.5,5,68.77,Medium
+1105,31,Male,Bachelor's,Operations,Lead,9,103081,17,10,3,3,5.0,3.4,0,76.35,High
+1106,34,Male,Bachelor's,Operations,Junior,0,42538,11,1,5,5,2.4,3.6,0,63.72,Medium
+1107,24,Female,Bachelor's,Operations,Mid,0,56391,13,5,2,4,3.9,1.7,0,57.56,Medium
+1108,41,Female,High School,Support,Mid,19,79984,7,3,7,5,2.4,4.5,1,81.06,High
+1109,31,Male,Bachelor's,Marketing,Mid,9,59988,5,0,7,6,2.9,3.7,0,76.57,High
+1110,43,Male,PhD,Sales,Lead,21,115229,15,2,4,14,3.2,1.6,0,79.67,High
+1111,32,Female,Master's,Finance,Senior,10,92130,2,0,5,13,3.3,1.3,0,77.25,High
+1112,36,Female,Bachelor's,Marketing,Mid,6,64032,11,8,4,0,3.2,1.2,0,64.84,Medium
+1113,28,Female,High School,Support,Junior,2,48894,8,5,2,1,3.6,1.4,2,53.57,Medium
+1114,42,Male,Bachelor's,Operations,Lead,16,109893,1,12,3,5,3.0,1.5,1,68.65,Medium
+1115,39,Female,Bachelor's,Sales,Senior,2,82762,8,10,3,4,2.2,2.8,2,49.51,Low
+1116,32,Male,PhD,Operations,Senior,3,76850,15,4,6,1,2.2,1.2,0,69.74,Medium
+1117,34,Non-Binary,PhD,Operations,Junior,9,50370,34,0,7,10,3.2,3.2,2,84.3,High
+1118,35,Male,High School,HR,Senior,12,83434,16,6,4,10,2.9,1.8,5,76.44,High
+1119,25,Male,Bachelor's,Sales,Senior,1,78423,30,3,2,1,2.3,2.2,5,68.11,Medium
+1120,31,Female,Bachelor's,Operations,Mid,6,68032,1,3,3,5,2.7,3.3,2,65.24,Medium
+1121,32,Male,Bachelor's,Finance,Senior,3,78927,20,0,7,32,3.9,1.8,4,53.88,Medium
+1122,37,Male,Bachelor's,Operations,Junior,3,51167,80,10,6,8,4.7,4.1,0,71.79,Medium
+1123,37,Non-Binary,Master's,Operations,Senior,2,77643,24,3,8,21,3.8,4.1,0,70.15,Medium
+1124,39,Female,Bachelor's,Marketing,Lead,8,99042,1,5,4,5,4.5,4.1,0,72.27,Medium
+1125,32,Male,Bachelor's,Finance,Manager,3,113508,0,0,3,12,2.4,4.9,1,62.54,Medium
+1126,33,Male,Bachelor's,Operations,Junior,0,30000,8,9,6,0,3.4,3.2,6,57.15,Medium
+1127,38,Female,Master's,Sales,Senior,2,77376,25,0,2,23,2.3,4.9,0,54.11,Medium
+1128,33,Female,Bachelor's,Operations,Junior,10,50522,24,3,5,0,2.3,1.7,7,67.51,Medium
+1129,39,Female,Bachelor's,Engineering,Mid,1,66487,14,6,3,12,3.2,1.8,0,54.57,Medium
+1130,27,Female,High School,Operations,Junior,3,41112,58,3,3,11,4.7,1.4,1,80.38,High
+1131,43,Male,Bachelor's,Finance,Junior,8,52127,29,13,5,2,2.0,4.2,2,69.15,Medium
+1132,39,Male,Master's,Support,Mid,8,58455,19,1,5,18,3.2,3.4,0,70.67,Medium
+1133,28,Female,Master's,Marketing,Mid,6,67911,13,0,3,46,4.1,4.9,2,50.76,Medium
+1134,28,Male,Master's,HR,Lead,0,90973,39,6,6,6,2.4,2.9,4,72.76,Medium
+1135,35,Male,Bachelor's,Finance,Lead,3,103810,2,0,3,18,4.5,4.0,0,57.73,Medium
+1136,51,Female,Master's,Operations,Lead,7,101812,0,4,3,1,3.9,1.9,1,67.69,Medium
+1137,40,Male,Bachelor's,Marketing,Senior,12,92737,6,9,6,0,4.7,2.8,1,79.76,High
+1138,43,Male,Master's,HR,Mid,0,52971,67,0,4,9,3.9,4.9,2,81.28,High
+1139,37,Male,Master's,Engineering,Mid,1,65390,5,0,1,7,3.0,2.2,0,66.6,Medium
+1140,48,Non-Binary,Master's,Engineering,Mid,22,78609,6,6,1,6,2.2,1.9,1,73.94,Medium
+1141,40,Male,PhD,Marketing,Senior,8,98037,7,2,6,17,4.3,2.8,2,82.69,High
+1142,48,Female,Master's,Marketing,Junior,6,42720,12,16,3,2,3.9,1.0,0,57.74,Medium
+1143,23,Male,Bachelor's,Operations,Mid,1,55784,6,0,4,0,3.2,1.9,0,62.66,Medium
+1144,28,Male,Bachelor's,Marketing,Mid,0,59146,6,6,3,6,3.4,1.1,2,61.17,Medium
+1145,23,Non-Binary,Bachelor's,Operations,Mid,0,45710,47,5,1,13,3.9,4.8,4,59.58,Medium
+1146,30,Male,Master's,Sales,Lead,5,101966,15,9,3,4,4.1,2.7,2,65.25,Medium
+1147,40,Male,Bachelor's,Sales,Junior,11,54366,41,5,5,1,2.6,1.0,1,79.89,High
+1148,22,Male,PhD,Marketing,Lead,0,101679,1,1,4,15,2.6,3.2,4,55.13,Medium
+1149,22,Male,Master's,Operations,Lead,0,91534,9,3,7,3,4.1,1.7,1,68.64,Medium
+1150,31,Male,Bachelor's,Marketing,Junior,3,45782,2,7,7,6,3.4,3.2,0,70.73,Medium
+1151,39,Male,Bachelor's,Engineering,Junior,6,47232,0,0,2,0,2.9,4.0,1,66.44,Medium
+1152,32,Male,Bachelor's,Marketing,Mid,4,59871,1,3,5,1,5.0,1.7,0,65.08,Medium
+1153,24,Male,Bachelor's,Support,Mid,2,53074,16,1,2,4,3.4,3.5,1,68.57,Medium
+1154,42,Female,Bachelor's,Engineering,Senior,3,80875,47,0,6,7,1.8,2.8,0,80.57,High
+1155,39,Female,Bachelor's,Operations,Senior,16,92351,3,2,4,15,3.5,3.4,1,72.38,Medium
+1156,29,Male,Bachelor's,Support,Mid,4,65769,28,3,4,24,3.0,4.4,1,59.79,Medium
+1157,42,Male,Bachelor's,Engineering,Mid,19,81745,0,8,9,8,3.6,4.3,1,85.85,High
+1158,48,Male,PhD,Operations,Senior,22,105025,26,0,6,11,3.8,4.1,4,100.0,High
+1159,42,Male,Bachelor's,Sales,Senior,0,69362,7,3,7,9,4.7,1.0,0,76.66,High
+1160,41,Male,Master's,Engineering,Senior,1,75393,6,1,3,2,3.9,2.3,1,65.92,Medium
+1161,31,Male,Bachelor's,Engineering,Junior,7,41485,4,5,4,13,4.1,3.2,2,57.21,Medium
+1162,49,Female,Master's,Operations,Senior,14,93762,6,2,3,2,3.5,1.2,3,78.61,High
+1163,40,Male,Bachelor's,Support,Senior,17,103380,17,2,5,0,3.1,4.7,4,86.54,High
+1164,26,Male,Master's,Sales,Lead,2,96268,66,0,6,9,1.2,3.5,3,74.56,Medium
+1165,30,Male,Bachelor's,Sales,Lead,1,92048,22,11,4,8,1.8,5.0,0,45.8,Low
+1166,34,Male,Bachelor's,Engineering,Senior,10,88099,10,5,2,3,3.5,3.6,3,74.62,Medium
+1167,45,Female,Bachelor's,Support,Junior,7,52450,20,2,3,17,3.7,2.1,1,63.72,Medium
+1168,35,Female,Bachelor's,Marketing,Lead,11,109082,0,5,5,3,3.0,3.9,5,74.77,Medium
+1169,40,Male,Master's,Sales,Mid,9,69390,74,0,4,2,3.4,1.1,0,87.71,High
+1170,47,Female,Bachelor's,Finance,Senior,17,100538,22,3,5,14,2.0,1.8,0,82.16,High
+1171,29,Female,PhD,HR,Senior,5,80786,17,18,5,8,1.9,3.6,2,53.62,Medium
+1172,40,Male,Bachelor's,Sales,Senior,14,86242,33,4,5,3,2.3,2.4,6,88.29,High
+1173,26,Male,Master's,Operations,Senior,4,79020,15,1,9,0,3.2,2.1,4,90.55,High
+1174,22,Male,Bachelor's,Marketing,Lead,0,96508,2,21,6,5,4.5,1.4,2,42.51,Low
+1175,22,Non-Binary,Master's,Finance,Manager,0,112310,18,0,5,1,3.2,4.2,5,73.2,Medium
+1176,35,Male,Master's,Support,Senior,4,78595,30,12,1,11,3.4,4.3,3,62.42,Medium
+1177,29,Female,Bachelor's,Finance,Senior,6,76779,26,0,4,5,3.1,3.6,0,78.07,High
+1178,22,Non-Binary,Bachelor's,HR,Mid,0,51344,0,0,5,4,3.8,5.0,1,60.44,Medium
+1179,35,Male,Master's,Marketing,Junior,3,38830,0,0,5,2,3.0,4.8,2,76.41,High
+1180,22,Male,Master's,HR,Junior,0,47101,34,8,3,6,2.7,2.2,2,58.43,Medium
+1181,35,Male,High School,Operations,Junior,5,49548,33,7,7,11,2.3,3.6,0,68.54,Medium
+1182,43,Male,High School,Finance,Junior,16,55821,72,1,5,2,2.4,1.0,3,83.4,High
+1183,46,Male,Master's,Finance,Senior,15,90594,45,6,3,1,2.5,2.3,10,75.19,High
+1184,31,Male,Bachelor's,Operations,Senior,0,84010,3,6,5,7,3.7,2.2,3,55.29,Medium
+1185,25,Female,Master's,Marketing,Senior,0,74094,2,6,4,0,4.0,1.2,0,61.37,Medium
+1186,26,Female,Master's,Marketing,Senior,2,77372,9,0,6,12,2.6,1.1,4,73.98,Medium
+1187,41,Female,PhD,Operations,Mid,16,69192,15,13,5,10,2.7,4.5,0,74.17,Medium
+1188,46,Male,Master's,Finance,Lead,16,106754,33,2,7,0,3.5,4.4,10,95.47,High
+1189,22,Male,Master's,HR,Junior,0,42043,8,3,7,4,2.5,1.3,3,64.06,Medium
+1190,22,Female,High School,HR,Junior,0,37205,30,6,5,7,3.2,4.9,0,65.03,Medium
+1191,29,Male,Bachelor's,Sales,Senior,2,85907,10,1,4,2,2.0,2.1,2,62.35,Medium
+1192,38,Male,PhD,Support,Junior,7,46394,1,3,8,8,2.5,3.3,1,84.52,High
+1193,33,Male,Bachelor's,Operations,Senior,7,84783,24,4,4,6,3.2,2.0,1,77.86,High
+1194,38,Female,Master's,Marketing,Junior,11,61698,7,8,4,0,3.5,4.3,1,74.09,Medium
+1195,24,Male,Bachelor's,HR,Senior,2,80848,1,0,5,0,3.7,2.0,0,63.54,Medium
+1196,28,Male,Master's,HR,Senior,4,81839,34,10,5,6,3.6,4.0,3,67.45,Medium
+1197,39,Male,Master's,Operations,Mid,6,59270,40,9,4,16,4.3,3.6,4,82.84,High
+1198,34,Female,High School,HR,Lead,3,96664,7,2,4,0,3.8,1.4,3,65.23,Medium
+1199,35,Male,Bachelor's,Operations,Manager,11,118180,57,5,6,4,3.6,4.2,0,87.28,High
+1200,41,Male,Bachelor's,Sales,Mid,16,70859,49,12,7,3,3.3,4.8,5,74.02,Medium
+1201,37,Female,High School,Marketing,Lead,12,98616,43,1,0,0,2.4,2.2,1,80.78,High
+1202,29,Male,Bachelor's,Finance,Junior,0,44879,14,0,6,0,3.0,2.4,0,70.1,Medium
+1203,30,Male,Bachelor's,Finance,Mid,2,54096,8,5,5,4,3.2,4.0,5,60.61,Medium
+1204,48,Male,Bachelor's,Sales,Mid,23,85344,2,3,9,0,2.5,3.8,0,81.77,High
+1205,43,Female,Master's,Marketing,Senior,14,93401,10,8,6,17,2.4,3.9,2,70.3,Medium
+1206,48,Female,Bachelor's,Operations,Mid,21,73603,38,8,4,5,3.1,4.2,5,79.71,High
+1207,38,Male,Master's,Sales,Mid,1,56421,20,0,7,4,2.8,5.0,2,72.99,Medium
+1208,29,Female,Master's,Operations,Senior,2,75137,8,10,4,3,3.5,2.5,2,60.12,Medium
+1209,38,Female,Bachelor's,Sales,Junior,13,62879,27,6,2,8,3.2,3.5,3,80.93,High
+1210,31,Male,Bachelor's,Finance,Mid,6,69545,38,3,4,11,2.6,3.9,1,65.4,Medium
+1211,38,Male,Bachelor's,HR,Lead,12,112678,16,3,4,4,2.3,4.8,1,85.72,High
+1212,54,Female,Master's,HR,Mid,8,67586,4,3,3,2,4.0,4.1,3,76.55,High
+1213,31,Female,Master's,Operations,Senior,4,77263,6,2,6,12,3.5,2.7,0,78.11,High
+1214,35,Non-Binary,Master's,Support,Lead,3,95063,1,27,5,3,3.8,4.4,10,42.65,Low
+1215,32,Female,Bachelor's,HR,Mid,0,60496,1,1,5,2,3.6,1.5,1,56.59,Medium
+1216,22,Female,PhD,HR,Senior,0,70907,5,3,8,21,3.0,3.1,0,61.24,Medium
+1217,40,Male,Bachelor's,HR,Lead,9,105490,59,7,6,0,2.9,4.7,2,78.13,High
+1218,31,Female,Bachelor's,Engineering,Junior,6,41169,24,2,5,8,2.9,1.1,3,82.17,High
+1219,39,Male,Bachelor's,Support,Mid,11,69534,61,8,7,8,3.4,1.3,3,87.88,High
+1220,28,Male,Bachelor's,Finance,Junior,4,39146,39,8,6,1,2.5,4.2,10,71.68,Medium
+1221,39,Male,Master's,Finance,Senior,13,91385,2,1,0,8,2.2,4.6,0,79.64,High
+1222,37,Male,Bachelor's,Support,Mid,4,51288,32,1,4,2,2.8,2.0,1,72.79,Medium
+1223,36,Male,PhD,Marketing,Junior,1,42633,80,1,6,1,4.4,2.9,3,77.88,High
+1224,25,Male,Bachelor's,Finance,Junior,1,45776,1,2,3,4,3.6,3.7,3,67.86,Medium
+1225,47,Male,High School,Support,Junior,24,70589,0,2,9,6,2.9,3.7,2,84.22,High
+1226,32,Female,Bachelor's,Support,Mid,9,74445,14,8,5,4,2.5,1.5,4,74.35,Medium
+1227,30,Male,Bachelor's,Marketing,Junior,8,53766,70,3,4,12,2.4,2.5,0,78.32,High
+1228,36,Male,PhD,Support,Junior,3,55996,17,5,9,7,2.7,2.5,0,79.32,High
+1229,41,Male,Bachelor's,Finance,Junior,0,39863,6,0,5,5,3.1,2.9,3,66.12,Medium
+1230,25,Male,Master's,Sales,Manager,1,110117,22,5,8,0,2.2,3.7,1,72.11,Medium
+1231,22,Male,High School,Finance,Junior,0,48623,3,0,1,0,3.0,3.9,0,46.93,Low
+1232,41,Female,Master's,Operations,Junior,1,50762,4,3,6,15,2.1,4.0,1,52.47,Medium
+1233,25,Male,Bachelor's,Engineering,Mid,0,49984,20,3,2,2,3.6,3.5,2,54.62,Medium
+1234,35,Male,PhD,Engineering,Junior,10,56380,80,1,7,3,3.1,2.0,1,90.1,High
+1235,26,Female,Bachelor's,Engineering,Mid,4,61291,11,2,4,8,1.9,4.0,3,70.26,Medium
+1236,36,Male,PhD,Marketing,Senior,6,80225,25,7,6,3,2.6,2.2,0,80.35,High
+1237,44,Male,Bachelor's,Operations,Mid,2,56105,26,3,4,2,1.7,3.4,1,68.05,Medium
+1238,35,Female,Master's,Finance,Manager,11,132747,45,2,6,3,3.1,3.3,1,91.17,High
+1239,47,Non-Binary,Bachelor's,HR,Junior,0,43010,21,3,1,22,3.7,4.3,10,44.17,Low
+1240,28,Male,High School,Support,Mid,1,56349,2,4,5,18,3.0,4.6,3,50.69,Medium
+1241,34,Female,Bachelor's,Operations,Junior,6,42943,36,1,7,13,2.8,2.5,1,80.84,High
+1242,33,Female,High School,Operations,Mid,7,62521,5,4,5,7,3.6,4.4,0,71.75,Medium
+1243,30,Male,Master's,Finance,Manager,3,114721,15,2,5,7,3.5,2.5,0,75.45,High
+1244,28,Male,Bachelor's,Marketing,Mid,1,58530,0,9,1,1,3.3,3.8,0,40.13,Low
+1245,36,Female,PhD,Support,Junior,9,54263,10,5,8,4,3.5,3.9,4,85.84,High
+1246,33,Female,Bachelor's,Operations,Junior,9,36582,5,3,5,2,3.1,4.5,2,75.11,High
+1247,47,Male,PhD,Sales,Manager,8,116139,22,6,4,12,3.7,2.1,10,77.29,High
+1248,32,Male,Bachelor's,Support,Mid,2,56876,49,5,0,1,1.8,4.2,3,62.62,Medium
+1249,43,Male,Bachelor's,Operations,Junior,3,51877,5,0,4,16,2.8,4.7,1,52.46,Medium
+1250,45,Female,PhD,Marketing,Senior,7,87516,9,3,2,0,3.2,3.3,3,67.04,Medium
+1251,44,Male,Bachelor's,Support,Junior,18,60254,5,1,4,3,2.5,4.5,0,82.21,High
+1252,28,Female,Master's,Marketing,Senior,3,81108,4,0,8,2,3.3,3.9,1,80.16,High
+1253,34,Male,Master's,Sales,Junior,9,48720,4,4,6,18,2.9,2.2,0,62.43,Medium
+1254,30,Female,Bachelor's,Support,Mid,0,55642,15,0,4,0,3.4,1.5,0,54.99,Medium
+1255,32,Female,Bachelor's,Support,Lead,6,93070,10,2,6,15,1.7,1.8,6,67.91,Medium
+1256,39,Male,Master's,Support,Mid,4,55469,4,4,0,12,3.6,3.0,0,62.84,Medium
+1257,44,Non-Binary,Master's,HR,Lead,13,104709,18,4,1,2,4.7,4.1,0,81.3,High
+1258,41,Female,Master's,Marketing,Mid,13,68797,24,0,4,46,3.5,2.6,0,58.56,Medium
+1259,35,Male,High School,Sales,Mid,5,59636,15,0,7,26,2.2,1.2,5,66.59,Medium
+1260,50,Male,High School,Marketing,Senior,9,84935,3,5,6,2,4.7,4.6,3,78.28,High
+1261,41,Female,Master's,Engineering,Senior,1,72153,51,1,4,0,2.4,3.7,5,69.91,Medium
+1262,33,Female,PhD,Engineering,Senior,1,83875,30,0,3,0,2.5,2.0,0,75.32,High
+1263,35,Female,Master's,Support,Lead,11,112821,9,4,4,1,1.3,1.3,4,69.94,Medium
+1264,37,Female,PhD,Operations,Senior,12,83364,10,4,2,9,2.6,3.5,0,77.1,High
+1265,32,Male,Bachelor's,HR,Mid,10,73649,1,6,7,2,3.8,3.0,3,74.04,Medium
+1266,29,Male,Bachelor's,Sales,Mid,2,60763,35,14,7,5,3.5,3.1,0,64.58,Medium
+1267,47,Male,Bachelor's,Operations,Senior,9,88670,20,2,6,6,2.5,2.4,6,78.79,High
+1268,44,Female,PhD,Operations,Senior,7,87490,31,1,0,6,4.1,2.9,0,79.61,High
+1269,22,Male,Master's,Operations,Manager,0,106570,2,8,1,8,2.1,2.8,2,48.09,Low
+1270,39,Male,Bachelor's,Sales,Mid,9,61607,22,0,3,7,2.4,1.2,1,83.56,High
+1271,28,Female,Bachelor's,Marketing,Lead,3,98990,47,2,3,1,2.8,2.7,2,71.22,Medium
+1272,46,Male,Bachelor's,Finance,Senior,22,94440,4,4,2,3,4.4,4.2,1,73.18,Medium
+1273,46,Female,PhD,Sales,Senior,23,102183,0,16,3,4,2.9,3.6,1,63.33,Medium
+1274,30,Male,Master's,HR,Lead,7,102076,4,1,2,5,3.2,2.8,0,74.73,Medium
+1275,39,Non-Binary,Bachelor's,HR,Senior,10,80618,4,0,7,5,3.6,1.9,2,85.65,High
+1276,28,Male,Master's,Support,Junior,4,49951,60,8,4,2,3.1,1.0,0,63.43,Medium
+1277,30,Male,PhD,Support,Junior,8,47988,30,6,5,4,3.9,2.3,2,76.14,High
+1278,22,Male,Bachelor's,Sales,Junior,0,36414,80,4,2,23,2.9,3.2,0,45.95,Low
+1279,31,Male,High School,Finance,Mid,6,69450,17,0,5,26,3.6,1.5,1,59.35,Medium
+1280,39,Male,Bachelor's,Sales,Manager,1,106712,30,19,2,2,3.2,1.9,1,46.3,Low
+1281,39,Female,Master's,HR,Junior,4,42191,26,1,3,1,3.2,4.8,5,73.3,Medium
+1282,51,Male,Bachelor's,Operations,Manager,4,109971,2,0,8,23,4.3,2.9,1,63.33,Medium
+1283,26,Female,Bachelor's,Operations,Junior,1,44064,5,0,3,5,3.8,1.2,3,71.34,Medium
+1284,28,Female,Master's,Engineering,Senior,3,76609,10,3,3,5,1.7,3.9,0,61.47,Medium
+1285,27,Male,Bachelor's,Operations,Senior,0,81891,5,4,4,1,1.8,3.4,0,56.81,Medium
+1286,38,Female,PhD,Engineering,Senior,3,74440,5,1,3,6,2.0,3.5,0,72.15,Medium
+1287,32,Female,Master's,Support,Senior,3,78806,18,1,4,2,3.8,2.1,1,82.99,High
+1288,38,Female,Master's,Marketing,Senior,15,96247,1,1,4,18,2.5,1.6,4,69.12,Medium
+1289,28,Female,Bachelor's,Marketing,Senior,2,82809,4,15,6,2,3.4,4.1,3,48.06,Low
+1290,32,Non-Binary,Bachelor's,Sales,Senior,7,78428,4,1,4,8,3.9,4.2,4,77.88,High
+1291,22,Female,Master's,Support,Lead,0,89215,13,0,3,13,2.3,4.5,0,57.14,Medium
+1292,38,Female,Master's,Sales,Mid,8,65402,2,1,9,12,3.1,3.6,3,81.96,High
+1293,38,Female,Bachelor's,HR,Lead,12,105790,22,1,4,0,3.3,3.9,1,84.6,High
+1294,43,Female,Master's,Engineering,Senior,8,75903,12,6,6,31,2.6,3.8,6,46.41,Low
+1295,42,Female,Master's,Support,Junior,0,38886,65,4,2,2,3.8,4.8,0,64.9,Medium
+1296,45,Female,Bachelor's,Operations,Junior,6,40766,3,2,5,0,3.0,1.3,1,64.85,Medium
+1297,22,Male,Master's,Sales,Senior,0,66068,4,6,3,4,4.7,2.0,3,54.53,Medium
+1298,36,Male,Master's,Operations,Mid,0,60568,13,7,1,0,3.8,2.1,4,67.34,Medium
+1299,34,Male,High School,Marketing,Senior,1,79902,14,1,7,10,2.0,1.4,0,64.07,Medium
+1300,31,Male,Master's,Sales,Senior,8,86157,22,0,5,6,3.7,2.1,3,82.17,High
+1301,27,Non-Binary,Master's,Finance,Junior,0,46517,10,1,3,14,4.0,1.0,0,59.87,Medium
+1302,28,Male,Bachelor's,Support,Junior,1,36706,75,6,0,10,4.2,2.4,3,61.63,Medium
+1303,31,Male,Bachelor's,Sales,Junior,6,48643,2,0,5,0,4.2,4.8,0,74.79,Medium
+1304,36,Male,Bachelor's,Marketing,Junior,12,52692,32,15,5,7,4.0,4.8,3,78.54,High
+1305,45,Female,Master's,Support,Junior,15,56996,10,4,4,12,2.4,1.9,0,80.01,High
+1306,43,Male,PhD,Support,Junior,16,65773,8,3,3,1,4.1,1.3,1,86.82,High
+1307,39,Female,PhD,Operations,Senior,9,90422,5,2,5,6,3.4,4.7,2,88.13,High
+1308,36,Male,Bachelor's,Finance,Lead,2,103880,0,4,2,3,3.3,2.0,1,54.19,Medium
+1309,39,Male,Bachelor's,Marketing,Mid,7,61224,5,6,3,6,2.9,3.3,3,63.95,Medium
+1310,22,Female,Bachelor's,Marketing,Junior,0,38768,9,5,6,3,4.0,1.2,0,66.87,Medium
+1311,50,Male,Master's,Support,Junior,7,47756,19,7,1,4,3.6,2.2,3,71.93,Medium
+1312,38,Female,Master's,Finance,Mid,9,63952,1,1,4,7,5.0,2.9,2,82.69,High
+1313,34,Male,Bachelor's,Operations,Mid,2,65724,68,5,4,5,3.6,4.6,1,67.04,Medium
+1314,41,Female,Bachelor's,Sales,Mid,1,56047,8,1,4,1,3.7,4.8,1,67.74,Medium
+1315,35,Female,Bachelor's,Sales,Mid,6,65867,3,0,5,3,4.1,1.8,2,71.69,Medium
+1316,38,Male,Master's,Marketing,Lead,3,92559,24,3,4,8,2.7,1.2,0,72.05,Medium
+1317,26,Female,PhD,HR,Senior,3,74119,4,0,7,0,3.3,4.2,4,72.12,Medium
+1318,34,Male,Bachelor's,Sales,Senior,12,91178,28,3,5,1,4.1,3.4,1,96.33,High
+1319,30,Male,Bachelor's,Sales,Junior,0,42534,11,4,1,6,2.8,2.4,6,55.62,Medium
+1320,41,Female,Master's,Engineering,Lead,6,102891,1,1,3,8,2.4,2.1,1,67.12,Medium
+1321,31,Male,High School,Engineering,Junior,1,44366,14,5,5,1,2.7,1.1,0,59.08,Medium
+1322,30,Male,Bachelor's,Marketing,Mid,5,59067,21,1,6,7,3.0,2.6,10,82.65,High
+1323,26,Non-Binary,Master's,Sales,Senior,3,83576,12,2,3,3,4.0,4.7,0,75.29,High
+1324,34,Male,High School,Marketing,Mid,2,52625,27,9,5,10,4.1,3.8,0,66.01,Medium
+1325,46,Female,Bachelor's,Support,Junior,10,54243,42,4,5,1,3.8,2.2,0,85.66,High
+1326,37,Male,Bachelor's,HR,Senior,7,86215,0,1,2,5,2.9,1.8,3,65.78,Medium
+1327,22,Female,Master's,Finance,Mid,0,55707,19,0,3,13,1.0,1.4,1,51.6,Medium
+1328,39,Female,PhD,Engineering,Junior,14,56139,9,1,5,2,4.2,2.7,5,90.23,High
+1329,40,Female,Bachelor's,Sales,Senior,9,77977,2,1,5,2,3.0,2.2,1,71.93,Medium
+1330,37,Male,Bachelor's,HR,Lead,2,105821,10,4,7,4,3.0,3.8,2,68.81,Medium
+1331,44,Male,Master's,Support,Mid,10,67235,8,3,4,22,4.6,2.2,1,75.78,High
+1332,43,Female,Bachelor's,Sales,Junior,12,59350,4,7,4,6,1.7,2.9,4,68.65,Medium
+1333,33,Female,Bachelor's,Operations,Mid,9,62444,0,2,4,4,3.1,2.0,1,73.48,Medium
+1334,49,Female,Bachelor's,Engineering,Junior,1,40710,18,2,2,0,3.5,2.7,1,64.95,Medium
+1335,34,Male,Bachelor's,Sales,Lead,12,116879,1,10,5,17,2.7,2.1,1,61.9,Medium
+1336,33,Male,PhD,HR,Junior,6,49670,5,1,0,0,3.1,3.3,6,66.92,Medium
+1337,50,Female,PhD,Engineering,Senior,27,113623,31,0,8,11,3.5,1.9,5,100.0,High
+1338,33,Male,High School,Operations,Senior,1,77756,0,9,5,0,3.3,4.2,1,42.5,Low
+1339,36,Male,Bachelor's,Finance,Mid,6,73181,68,3,7,6,3.4,3.9,1,84.23,High
+1340,27,Female,Master's,Support,Junior,3,47614,23,7,10,3,2.8,1.5,0,74.95,Medium
+1341,34,Male,Bachelor's,Support,Mid,4,49829,4,1,4,4,3.5,3.3,10,72.72,Medium
+1342,26,Female,Bachelor's,Support,Mid,0,56650,6,2,4,9,2.9,2.2,6,68.37,Medium
+1343,44,Non-Binary,High School,Operations,Junior,12,46764,2,1,3,4,2.7,3.8,0,68.57,Medium
+1344,22,Female,Bachelor's,Finance,Mid,0,50563,6,2,7,0,2.3,1.9,2,63.79,Medium
+1345,43,Male,Bachelor's,Sales,Mid,6,66001,33,1,8,9,2.9,4.9,0,92.64,High
+1346,47,Male,Master's,Sales,Senior,7,73082,17,8,4,6,3.5,1.2,0,83.01,High
+1347,31,Male,PhD,Support,Junior,4,45566,16,1,2,2,3.1,3.5,0,72.22,Medium
+1348,41,Female,Master's,Support,Senior,12,97992,0,4,0,0,1.8,3.2,0,60.22,Medium
+1349,22,Female,Bachelor's,Finance,Junior,0,50210,20,8,5,0,4.1,1.4,0,61.37,Medium
+1350,31,Male,Bachelor's,Marketing,Lead,9,108113,16,10,0,15,3.0,2.9,3,50.94,Medium
+1351,41,Female,High School,Marketing,Senior,19,100356,74,0,5,8,4.1,1.5,2,95.23,High
+1352,34,Male,High School,HR,Senior,10,86421,30,11,7,2,3.7,2.4,6,77.56,High
+1353,45,Male,Bachelor's,HR,Senior,6,86929,7,0,4,7,3.3,4.5,5,68.58,Medium
+1354,22,Female,Master's,Marketing,Mid,0,51327,22,1,0,2,3.0,3.9,1,62.86,Medium
+1355,36,Male,Bachelor's,Operations,Mid,8,63004,4,0,7,0,3.4,1.2,2,77.65,High
+1356,42,Male,PhD,Engineering,Manager,9,124331,25,4,3,17,2.3,3.8,0,74.62,Medium
+1357,37,Female,PhD,Engineering,Senior,9,92219,30,4,6,2,3.6,3.6,0,83.12,High
+1358,37,Female,Bachelor's,Operations,Senior,0,73293,50,14,4,2,3.7,2.0,5,53.14,Medium
+1359,30,Female,Bachelor's,Support,Senior,3,69302,80,1,3,6,2.1,2.0,6,72.09,Medium
+1360,32,Female,Bachelor's,Marketing,Senior,2,86958,4,2,5,5,3.9,3.1,1,61.95,Medium
+1361,31,Male,Bachelor's,Marketing,Senior,6,87571,15,4,7,2,4.4,1.2,1,82.07,High
+1362,42,Male,Bachelor's,Engineering,Junior,0,49722,5,0,4,17,2.5,4.4,4,50.66,Medium
+1363,43,Female,Bachelor's,Finance,Mid,20,75132,56,0,5,2,3.7,1.3,0,95.73,High
+1364,40,Male,Bachelor's,Operations,Senior,12,87451,2,9,1,21,3.9,1.7,0,57.23,Medium
+1365,46,Male,Bachelor's,Engineering,Senior,3,78670,75,13,3,0,2.5,2.1,4,51.3,Medium
+1366,33,Male,Bachelor's,Sales,Mid,8,66621,26,6,3,2,3.1,1.3,2,65.86,Medium
+1367,36,Male,Master's,HR,Mid,4,54713,0,4,4,3,3.9,4.6,4,63.59,Medium
+1368,41,Male,Bachelor's,Sales,Junior,0,38274,4,5,5,3,2.2,4.8,4,54.99,Medium
+1369,37,Female,Bachelor's,Engineering,Junior,10,52701,11,2,6,10,2.6,1.6,5,73.58,Medium
+1370,31,Male,High School,Marketing,Senior,5,77733,24,0,5,19,3.3,2.8,0,77.71,High
+1371,40,Female,Master's,Sales,Mid,9,73881,4,2,5,3,3.1,4.8,1,80.41,High
+1372,52,Male,Bachelor's,Support,Manager,14,123967,1,2,3,15,3.0,1.1,4,67.65,Medium
+1373,24,Male,Bachelor's,Support,Junior,2,46058,29,4,6,0,3.4,2.3,0,76.19,High
+1374,44,Female,Master's,Operations,Junior,4,43780,2,4,6,2,3.0,4.9,2,72.06,Medium
+1375,37,Male,Bachelor's,Engineering,Senior,2,81448,2,7,5,0,2.3,1.3,2,49.28,Low
+1376,45,Female,Master's,HR,Junior,19,60483,60,0,6,1,5.0,3.6,0,100.0,High
+1377,35,Male,Bachelor's,Finance,Mid,4,57028,61,9,6,8,3.7,1.5,3,72.21,Medium
+1378,26,Female,Bachelor's,HR,Lead,3,94645,19,1,5,13,1.0,4.0,0,62.01,Medium
+1379,33,Female,Master's,Sales,Mid,5,61401,2,0,5,18,3.3,3.8,0,62.41,Medium
+1380,25,Female,Bachelor's,Sales,Lead,2,96400,3,4,2,11,3.2,4.3,6,51.1,Medium
+1381,45,Male,Bachelor's,Engineering,Mid,8,66499,32,1,5,7,2.7,4.7,3,86.64,High
+1382,54,Male,Bachelor's,Engineering,Manager,10,121249,7,0,2,3,4.9,2.4,1,89.83,High
+1383,22,Male,Bachelor's,Sales,Junior,0,39900,1,4,4,2,1.9,3.9,7,52.03,Medium
+1384,41,Female,Bachelor's,Marketing,Lead,7,98701,47,0,7,1,2.5,1.8,7,83.54,High
+1385,22,Female,Bachelor's,Operations,Junior,0,37880,26,3,4,3,3.1,4.3,5,73.57,Medium
+1386,40,Male,Bachelor's,HR,Mid,14,67768,0,0,5,4,3.3,4.2,1,86.56,High
+1387,35,Male,Master's,Sales,Senior,6,75807,19,11,7,0,5.0,1.3,0,75.29,High
+1388,38,Male,PhD,Operations,Junior,12,47340,16,4,4,2,1.8,2.5,0,76.72,High
+1389,30,Male,Bachelor's,Operations,Junior,5,40927,4,0,6,2,3.7,1.5,0,79.68,High
+1390,45,Non-Binary,High School,Sales,Senior,3,79205,0,8,5,5,3.9,4.7,1,56.92,Medium
+1391,32,Male,High School,Operations,Mid,3,53766,29,6,4,3,2.4,1.6,4,59.99,Medium
+1392,39,Male,High School,Operations,Junior,17,59399,13,2,3,0,1.3,4.9,0,71.5,Medium
+1393,48,Female,Master's,Finance,Lead,20,120526,18,0,6,0,3.9,2.9,0,99.99,High
+1394,22,Female,Master's,Support,Manager,0,119687,4,2,0,18,3.8,4.8,2,48.85,Low
+1395,24,Male,Bachelor's,Support,Senior,1,80135,37,0,5,11,4.2,3.9,0,80.74,High
+1396,36,Male,High School,Operations,Mid,11,73250,24,1,2,0,2.3,3.3,1,77.36,High
+1397,38,Male,Bachelor's,Finance,Lead,11,97097,6,1,5,6,3.4,3.6,0,84.07,High
+1398,54,Male,Bachelor's,Engineering,Mid,22,87093,41,1,2,30,2.0,2.7,0,61.55,Medium
+1399,40,Male,Bachelor's,Engineering,Mid,12,63028,34,2,4,31,2.9,3.4,3,67.64,Medium
+1400,33,Female,PhD,HR,Manager,6,120533,22,0,4,5,3.1,2.8,2,76.5,High
+1401,36,Female,Bachelor's,HR,Junior,2,46093,18,4,8,6,3.4,4.8,0,80.57,High
+1402,45,Male,Master's,Support,Senior,17,97895,1,2,1,11,3.2,2.3,1,66.59,Medium
+1403,39,Male,Bachelor's,Sales,Senior,11,88659,14,0,1,11,2.6,1.8,0,72.48,Medium
+1404,33,Male,Bachelor's,Support,Lead,9,107332,12,0,5,2,2.3,4.8,3,76.62,High
+1405,35,Female,Master's,Operations,Manager,10,127185,16,3,1,0,3.4,3.9,0,79.03,High
+1406,53,Female,Bachelor's,HR,Mid,19,77795,18,0,3,10,3.8,4.9,2,83.5,High
+1407,35,Female,Bachelor's,Operations,Lead,0,91640,54,5,7,8,3.6,4.9,3,75.13,High
+1408,41,Female,Master's,Operations,Senior,7,85392,2,1,4,5,2.9,2.1,0,74.66,Medium
+1409,32,Male,Bachelor's,Support,Manager,0,105314,5,6,4,0,3.2,4.2,3,53.45,Medium
+1410,36,Female,Master's,Engineering,Mid,3,60997,79,0,6,2,3.7,1.7,0,80.61,High
+1411,42,Female,Master's,Engineering,Junior,4,42932,2,1,4,0,4.1,3.9,2,71.43,Medium
+1412,38,Male,Bachelor's,Marketing,Junior,9,44961,11,1,5,5,3.1,4.0,3,80.66,High
+1413,36,Female,High School,HR,Mid,9,70572,10,4,5,0,2.8,3.6,1,72.2,Medium
+1414,47,Male,Master's,Engineering,Junior,18,60596,9,3,5,17,3.4,2.6,1,76.51,High
+1415,39,Male,Bachelor's,Engineering,Mid,11,63656,13,1,5,4,3.4,3.2,7,85.51,High
+1416,23,Male,Bachelor's,Sales,Mid,1,60000,28,1,4,0,3.4,1.8,1,69.07,Medium
+1417,44,Male,Bachelor's,Sales,Mid,17,78611,72,1,4,10,2.7,2.8,4,89.82,High
+1418,35,Female,Bachelor's,Engineering,Lead,8,104090,28,6,3,5,3.0,2.6,5,76.74,High
+1419,32,Male,Master's,Sales,Mid,4,52988,11,3,2,0,3.3,3.9,2,70.13,Medium
+1420,30,Female,Master's,Marketing,Senior,2,74107,2,1,5,13,2.1,3.2,1,62.5,Medium
+1421,57,Female,Master's,Operations,Junior,14,64968,7,4,6,12,2.7,2.7,0,79.4,High
+1422,22,Female,Bachelor's,Sales,Lead,0,102868,9,1,5,4,4.8,4.6,0,74.85,Medium
+1423,26,Male,Bachelor's,Engineering,Junior,2,46452,17,8,5,0,3.6,3.3,3,63.74,Medium
+1424,32,Female,Bachelor's,Sales,Junior,10,47077,16,11,4,0,4.1,2.9,10,72.64,Medium
+1425,30,Male,Master's,Marketing,Manager,4,116492,17,0,3,7,3.2,3.4,0,76.67,High
+1426,38,Non-Binary,Bachelor's,Sales,Lead,5,95730,11,1,5,10,3.4,1.2,1,73.2,Medium
+1427,45,Female,Bachelor's,Support,Mid,22,78950,39,3,1,1,2.5,1.4,2,75.2,High
+1428,28,Male,High School,Support,Mid,0,53819,12,2,4,12,2.8,2.3,0,63.56,Medium
+1429,35,Male,High School,Marketing,Senior,0,81965,15,10,7,12,3.5,4.7,3,53.69,Medium
+1430,41,Male,Bachelor's,Operations,Senior,8,88811,46,0,5,3,2.3,4.9,6,83.21,High
+1431,42,Female,Master's,Engineering,Mid,6,59824,14,2,4,3,4.1,3.8,2,79.38,High
+1432,27,Non-Binary,Master's,Operations,Mid,1,57213,5,0,5,10,2.3,1.6,0,59.33,Medium
+1433,33,Male,Master's,Engineering,Mid,2,62992,4,5,6,1,2.6,2.3,1,60.02,Medium
+1434,25,Male,Bachelor's,HR,Lead,3,97746,45,6,0,0,2.6,1.9,0,50.6,Medium
+1435,24,Female,Master's,Finance,Senior,2,73157,9,9,5,3,3.7,4.0,2,59.38,Medium
+1436,35,Female,High School,Operations,Junior,7,46190,10,4,5,9,2.1,1.4,1,73.94,Medium
+1437,22,Male,Bachelor's,HR,Junior,0,45803,7,3,4,0,3.2,2.2,5,61.01,Medium
+1438,28,Male,Master's,Support,Mid,3,61698,22,4,0,24,1.3,4.8,2,47.48,Low
+1439,32,Male,Master's,Support,Lead,1,101749,1,3,6,2,3.5,1.7,1,62.5,Medium
+1440,32,Male,Bachelor's,HR,Manager,9,118381,11,2,6,1,2.6,1.3,6,74.06,Medium
+1441,30,Male,Bachelor's,Sales,Senior,5,84329,9,1,3,3,4.4,4.3,0,69.82,Medium
+1442,41,Female,Bachelor's,Engineering,Junior,10,50083,1,1,6,11,4.3,4.8,3,82.24,High
+1443,26,Male,High School,Support,Manager,3,111831,6,3,2,14,4.9,2.1,1,69.44,Medium
+1444,38,Female,Bachelor's,Finance,Junior,15,59149,30,6,3,1,4.2,2.2,1,84.7,High
+1445,38,Male,Bachelor's,Engineering,Lead,15,111739,57,2,7,1,3.8,3.4,0,91.03,High
+1446,34,Male,High School,HR,Junior,12,57621,1,10,3,16,3.1,2.0,1,57.5,Medium
+1447,44,Male,Master's,Marketing,Junior,7,56101,1,0,5,1,3.6,2.4,2,78.44,High
+1448,32,Male,PhD,Finance,Senior,2,79830,10,5,4,20,2.2,3.1,5,50.49,Medium
+1449,37,Male,High School,Finance,Senior,7,81486,30,3,5,0,3.1,2.9,0,77.58,High
+1450,36,Male,Master's,Operations,Junior,13,59906,21,2,6,6,3.3,3.5,5,92.59,High
+1451,32,Male,Master's,Operations,Senior,9,88514,14,2,6,10,1.8,2.6,2,80.99,High
+1452,43,Female,Bachelor's,HR,Senior,6,87670,8,0,3,26,2.7,2.6,0,63.83,Medium
+1453,22,Male,Master's,Finance,Senior,0,81669,18,3,7,1,1.0,4.3,1,64.14,Medium
+1454,31,Female,Bachelor's,Operations,Junior,5,43116,10,1,3,12,2.2,2.1,1,62.23,Medium
+1455,38,Female,Bachelor's,Operations,Junior,7,48627,15,13,6,6,2.9,3.3,1,63.26,Medium
+1456,35,Male,Bachelor's,Support,Mid,6,67068,21,2,5,13,1.8,1.2,2,69.87,Medium
+1457,44,Male,Bachelor's,Support,Mid,21,79097,19,2,3,13,4.1,2.6,0,83.45,High
+1458,36,Male,Bachelor's,HR,Mid,4,60308,0,2,5,16,2.7,4.0,2,57.48,Medium
+1459,45,Male,Bachelor's,Operations,Lead,20,119551,52,11,1,26,3.7,3.2,0,64.98,Medium
+1460,49,Male,Bachelor's,HR,Mid,17,74421,6,8,2,0,4.0,1.1,8,69.69,Medium
+1461,27,Female,Bachelor's,Support,Junior,1,42515,40,1,2,1,4.5,4.3,3,67.67,Medium
+1462,40,Female,Bachelor's,Finance,Lead,17,104477,5,0,5,2,3.6,4.8,1,94.79,High
+1463,37,Male,Bachelor's,Operations,Junior,10,47386,30,3,5,1,2.8,3.9,3,78.99,High
+1464,27,Male,Master's,Finance,Mid,2,70915,4,9,4,8,2.6,3.4,0,58.44,Medium
+1465,44,Male,Bachelor's,Support,Mid,11,73915,30,7,8,2,4.2,4.6,0,95.51,High
+1466,27,Male,Master's,Support,Mid,1,57768,5,0,6,9,1.7,2.5,0,73.38,Medium
+1467,33,Male,Bachelor's,Finance,Junior,4,40560,14,1,6,2,3.5,1.8,0,72.15,Medium
+1468,51,Male,Bachelor's,Finance,Mid,11,66695,21,4,3,2,2.1,1.8,0,74.18,Medium
+1469,32,Male,Master's,HR,Junior,8,57102,62,5,5,1,3.7,4.3,0,81.89,High
+1470,42,Female,Master's,Operations,Manager,12,117445,5,2,4,3,3.0,2.5,1,83.16,High
+1471,27,Female,Master's,Engineering,Senior,1,69938,0,3,6,1,3.6,3.2,0,64.03,Medium
+1472,36,Male,Master's,Marketing,Mid,14,78088,2,2,5,3,4.1,1.3,0,88.14,High
+1473,38,Female,PhD,Marketing,Mid,4,59832,31,1,2,17,3.9,3.2,0,71.26,Medium
+1474,22,Female,Bachelor's,Support,Mid,0,58995,7,5,6,8,3.7,2.1,4,69.94,Medium
+1475,35,Male,High School,Sales,Junior,11,45477,24,6,2,4,1.8,1.8,0,70.25,Medium
+1476,35,Non-Binary,Bachelor's,Sales,Junior,13,51242,17,2,5,15,1.9,3.7,1,77.34,High
+1477,28,Male,Master's,Finance,Senior,5,82630,13,8,6,1,1.5,4.0,0,63.57,Medium
+1478,25,Male,Master's,Marketing,Senior,1,80928,24,2,7,3,3.7,3.4,1,77.54,High
+1479,27,Female,Master's,Engineering,Lead,3,101193,46,1,2,7,3.6,2.3,0,73.03,Medium
+1480,30,Female,Bachelor's,Engineering,Junior,5,42844,26,1,5,9,2.4,2.6,0,77.96,High
+1481,34,Male,Master's,HR,Mid,8,63142,1,0,1,4,2.7,2.1,0,69.6,Medium
+1482,50,Male,Master's,Finance,Senior,0,75841,33,6,6,1,3.5,1.6,4,67.8,Medium
+1483,24,Female,Master's,Support,Mid,1,51894,23,8,7,6,2.6,4.5,1,79.67,High
+1484,39,Male,Bachelor's,Support,Mid,16,75683,16,5,2,5,2.6,3.5,3,74.77,Medium
+1485,40,Male,Master's,Marketing,Mid,12,70106,10,4,2,45,2.5,4.0,2,43.02,Low
+1486,33,Male,High School,Finance,Mid,0,53643,11,1,3,6,2.6,3.6,0,61.73,Medium
+1487,33,Female,High School,Finance,Senior,11,83844,15,2,6,1,3.4,3.7,0,78.47,High
+1488,37,Female,PhD,Sales,Mid,7,69984,44,2,4,6,3.4,3.4,2,85.26,High
+1489,46,Male,Bachelor's,Support,Manager,21,135911,20,1,7,2,3.1,4.7,0,95.61,High
+1490,45,Female,Bachelor's,Operations,Mid,0,54917,8,10,6,0,4.3,1.9,1,68.04,Medium
+1491,38,Female,Bachelor's,HR,Junior,3,47830,6,6,8,3,2.8,2.5,10,66.97,Medium
+1492,22,Male,Bachelor's,HR,Junior,0,32587,14,1,4,22,3.3,2.4,1,58.69,Medium
+1493,22,Female,Bachelor's,Support,Lead,0,89037,2,6,5,8,2.8,1.8,5,57.38,Medium
+1494,44,Female,Bachelor's,Engineering,Junior,10,54084,35,2,7,1,4.0,2.2,1,94.38,High
+1495,33,Female,Bachelor's,Sales,Senior,3,83387,0,3,1,1,2.1,2.7,10,54.76,Medium
+1496,22,Female,Bachelor's,HR,Senior,0,74802,5,1,4,4,2.9,3.1,2,62.54,Medium
+1497,27,Female,Bachelor's,Marketing,Mid,0,46793,14,6,4,15,1.0,3.8,1,47.68,Low
+1498,32,Male,Master's,Sales,Senior,5,80560,6,6,4,0,3.7,3.9,1,70.89,Medium
+1499,49,Male,Bachelor's,Support,Senior,19,92478,3,0,3,13,3.6,4.1,2,73.7,Medium
+1500,28,Male,Bachelor's,Support,Manager,6,117620,20,0,3,1,2.2,1.7,0,76.9,High
+1501,42,Male,Master's,Support,Mid,3,61069,0,8,3,5,2.9,3.4,0,60.04,Medium
+1502,33,Male,Bachelor's,HR,Junior,0,38803,10,0,6,2,3.6,4.0,1,75.09,High
+1503,43,Male,Bachelor's,Finance,Lead,3,92212,23,9,7,25,4.9,3.5,0,67.23,Medium
+1504,26,Female,Master's,Engineering,Junior,4,35063,28,1,6,9,4.9,1.9,2,88.55,High
+1505,27,Male,Master's,Support,Mid,1,59534,8,3,8,1,3.0,1.0,3,63.77,Medium
+1506,46,Male,Master's,Engineering,Junior,6,45190,72,15,6,2,2.5,3.8,0,64.35,Medium
+1507,35,Male,Bachelor's,Finance,Junior,11,53578,10,1,4,6,1.9,3.5,0,68.79,Medium
+1508,33,Male,Bachelor's,Engineering,Junior,8,48584,6,3,3,10,3.8,4.8,1,71.63,Medium
+1509,38,Male,Bachelor's,Finance,Senior,12,90105,1,8,4,7,4.1,4.9,1,74.87,Medium
+1510,24,Male,Master's,Engineering,Senior,1,75803,4,3,6,9,3.4,1.1,1,68.86,Medium
+1511,35,Male,Master's,Finance,Junior,4,38372,19,0,2,0,3.9,1.5,6,73.34,Medium
+1512,39,Female,Bachelor's,Engineering,Mid,14,69786,19,4,3,4,3.0,2.6,0,86.19,High
+1513,33,Non-Binary,High School,Operations,Mid,3,61340,15,6,3,9,3.6,2.5,1,64.74,Medium
+1514,26,Female,High School,Engineering,Junior,4,52465,4,1,7,8,2.9,1.2,5,71.43,Medium
+1515,35,Male,Bachelor's,Engineering,Mid,2,58704,8,1,3,2,3.5,2.4,3,72.3,Medium
+1516,41,Female,High School,HR,Manager,2,119445,11,11,4,5,3.4,4.9,6,56.5,Medium
+1517,22,Female,Bachelor's,Marketing,Mid,0,58079,26,8,4,6,3.8,2.4,0,68.61,Medium
+1518,54,Male,Bachelor's,Support,Mid,3,50566,47,0,4,0,4.2,2.8,2,81.97,High
+1519,24,Male,Bachelor's,HR,Lead,2,106332,5,15,7,0,3.6,1.7,3,59.22,Medium
+1520,22,Male,Master's,Support,Mid,0,56572,3,0,6,1,2.3,1.9,0,65.3,Medium
+1521,32,Male,Bachelor's,HR,Lead,0,94793,14,13,4,1,3.4,4.1,4,57.46,Medium
+1522,45,Male,High School,Sales,Mid,12,66916,17,5,4,39,3.8,3.5,10,58.62,Medium
+1523,40,Male,Master's,Sales,Mid,14,69771,39,2,5,1,2.6,2.8,0,88.94,High
+1524,35,Female,PhD,Finance,Junior,2,37255,16,2,4,2,2.8,3.4,2,65.45,Medium
+1525,39,Male,High School,Finance,Junior,1,43120,11,13,4,11,4.2,4.3,1,51.21,Medium
+1526,42,Male,Master's,HR,Junior,4,50037,28,2,0,12,2.5,1.6,1,65.08,Medium
+1527,26,Female,Bachelor's,Operations,Mid,2,52598,3,1,6,0,1.8,4.3,2,65.87,Medium
+1528,43,Female,High School,Marketing,Senior,1,79608,17,2,6,15,3.2,4.7,2,65.9,Medium
+1529,29,Male,Master's,Sales,Lead,0,94382,14,1,4,1,3.8,4.0,1,78.31,High
+1530,31,Male,Bachelor's,Sales,Mid,1,54819,17,0,4,15,2.9,3.6,1,62.93,Medium
+1531,39,Female,High School,Operations,Mid,4,52103,80,1,3,18,2.4,3.5,3,58.2,Medium
+1532,40,Male,Master's,Engineering,Senior,14,102704,61,0,6,2,3.5,1.4,0,98.2,High
+1533,37,Male,PhD,Finance,Senior,12,99466,3,1,3,4,3.2,2.3,0,82.74,High
+1534,30,Male,Bachelor's,Engineering,Lead,1,99775,4,15,4,41,2.2,2.3,1,17.14,Low
+1535,43,Female,PhD,Support,Senior,2,80778,8,13,7,0,3.1,1.6,1,51.71,Medium
+1536,34,Female,Bachelor's,Support,Mid,2,63482,0,2,0,12,4.1,4.6,0,61.12,Medium
+1537,30,Male,Bachelor's,Engineering,Junior,8,45406,26,4,4,15,3.4,3.4,1,76.02,High
+1538,39,Male,High School,Support,Lead,1,90975,10,4,8,0,4.3,4.3,0,72.24,Medium
+1539,31,Non-Binary,Master's,Support,Senior,4,78683,7,0,4,1,3.7,1.8,0,78.05,High
+1540,24,Male,Bachelor's,Engineering,Senior,2,76414,12,8,1,11,4.9,4.4,0,59.43,Medium
+1541,25,Female,Master's,Finance,Junior,0,31495,13,5,5,5,3.3,3.5,0,61.04,Medium
+1542,34,Male,PhD,Engineering,Manager,1,117209,0,3,5,2,2.9,3.7,2,65.33,Medium
+1543,36,Female,Bachelor's,Operations,Manager,14,133490,14,8,2,4,2.0,3.2,2,61.82,Medium
+1544,34,Female,Bachelor's,Support,Senior,9,85797,2,2,6,5,3.0,4.8,1,80.63,High
+1545,50,Male,High School,HR,Mid,20,88169,3,1,4,1,2.3,1.2,0,76.67,High
+1546,28,Male,PhD,Finance,Manager,6,115914,23,2,6,8,3.9,3.1,0,82.84,High
+1547,38,Male,High School,Engineering,Mid,10,67506,12,3,2,2,2.6,3.0,3,66.15,Medium
+1548,35,Female,Bachelor's,Marketing,Senior,5,90666,42,2,5,3,2.6,2.6,5,78.84,High
+1549,27,Female,Master's,Finance,Junior,0,49256,32,2,0,1,2.4,2.7,0,57.7,Medium
+1550,28,Male,Bachelor's,Support,Mid,1,57353,4,1,3,1,2.6,1.8,1,53.7,Medium
+1551,39,Male,Master's,Support,Mid,1,48744,0,1,6,14,3.3,3.0,0,70.49,Medium
+1552,37,Male,Bachelor's,Sales,Senior,5,78135,3,2,6,4,3.1,2.4,8,71.23,Medium
+1553,35,Female,Bachelor's,Operations,Mid,6,60022,3,5,0,1,3.1,3.2,3,53.41,Medium
+1554,29,Male,Bachelor's,Engineering,Junior,3,41455,21,4,6,7,4.0,2.4,0,70.93,Medium
+1555,33,Male,PhD,Operations,Senior,4,74516,15,7,3,8,3.3,1.0,3,64.23,Medium
+1556,43,Female,PhD,Marketing,Junior,12,52251,41,0,6,10,3.4,2.8,0,97.55,High
+1557,34,Male,Bachelor's,Marketing,Junior,12,58408,10,3,4,2,2.4,4.3,3,78.42,High
+1558,41,Male,Bachelor's,Marketing,Senior,7,82015,9,0,3,7,2.8,2.3,4,73.96,Medium
+1559,25,Male,High School,Sales,Mid,1,54246,3,7,6,5,1.9,1.2,7,45.15,Low
+1560,37,Female,Master's,Sales,Senior,9,93095,19,3,7,34,3.9,4.5,0,71.43,Medium
+1561,51,Male,Bachelor's,Operations,Lead,15,104872,0,3,4,7,3.5,3.4,0,75.64,High
+1562,30,Male,Bachelor's,Sales,Junior,7,49284,9,5,4,26,2.9,4.2,0,51.25,Medium
+1563,22,Female,PhD,HR,Junior,0,42781,0,3,2,8,2.3,4.4,2,54.4,Medium
+1564,40,Female,Master's,Support,Manager,14,127527,4,2,7,6,4.0,2.6,0,99.21,High
+1565,24,Female,Bachelor's,Engineering,Senior,2,83299,20,4,4,9,3.2,2.5,7,72.07,Medium
+1566,44,Female,Master's,Engineering,Senior,14,89113,16,0,7,0,3.9,4.4,2,92.25,High
+1567,51,Male,Bachelor's,Engineering,Junior,27,69733,1,5,7,2,4.5,3.7,3,86.35,High
+1568,26,Male,Bachelor's,HR,Senior,0,81570,9,7,3,4,2.7,4.4,3,54.67,Medium
+1569,22,Non-Binary,Bachelor's,Sales,Mid,0,46784,13,2,5,21,3.2,2.2,0,52.05,Medium
+1570,24,Female,Bachelor's,Operations,Senior,2,80381,26,0,6,13,3.4,2.5,4,74.36,Medium
+1571,45,Female,Bachelor's,Engineering,Mid,18,72911,28,5,3,5,2.3,2.3,3,77.68,High
+1572,31,Female,Master's,Marketing,Junior,3,48476,2,2,5,19,3.3,4.1,1,65.33,Medium
+1573,28,Male,Master's,Support,Junior,5,43772,5,5,5,6,3.7,2.8,0,82.01,High
+1574,30,Female,Bachelor's,HR,Mid,3,63573,64,8,4,10,4.6,4.8,0,73.57,Medium
+1575,37,Female,Bachelor's,Finance,Mid,10,74447,7,2,2,1,4.6,4.8,1,75.53,High
+1576,47,Male,High School,Support,Lead,20,121418,34,4,2,2,2.3,2.3,0,79.46,High
+1577,38,Female,Master's,Sales,Senior,13,90022,38,0,3,2,2.4,4.4,0,86.75,High
+1578,32,Male,Bachelor's,HR,Manager,0,108022,22,2,4,38,2.6,4.9,4,37.4,Low
+1579,40,Male,PhD,Finance,Lead,17,124498,11,3,6,0,3.2,3.0,2,88.95,High
+1580,45,Female,Master's,Marketing,Junior,15,49679,12,1,6,12,3.6,2.6,0,98.01,High
+1581,32,Female,PhD,Finance,Mid,8,68943,12,0,4,10,3.8,2.5,0,82.16,High
+1582,27,Male,High School,Marketing,Lead,3,96618,11,0,3,2,4.2,2.6,3,70.62,Medium
+1583,29,Male,Master's,Support,Mid,6,59625,2,2,8,8,3.3,4.2,0,76.8,High
+1584,27,Male,Bachelor's,Sales,Mid,3,65928,8,1,3,6,3.7,3.9,0,69.23,Medium
+1585,52,Female,Master's,Sales,Senior,24,100904,69,2,1,8,4.9,3.5,0,91.53,High
+1586,35,Male,Bachelor's,Engineering,Lead,7,100401,5,5,5,1,2.2,2.4,3,61.53,Medium
+1587,24,Female,Master's,Engineering,Mid,1,52499,13,18,3,30,3.1,4.4,0,27.8,Low
+1588,40,Female,Bachelor's,Support,Senior,7,86211,74,1,2,4,3.6,4.4,3,87.19,High
+1589,27,Male,Master's,Sales,Lead,2,89245,16,1,3,9,3.9,3.1,2,77.97,High
+1590,28,Male,Master's,Sales,Mid,1,56420,15,6,1,12,4.3,1.8,0,61.33,Medium
+1591,39,Female,Bachelor's,Marketing,Senior,1,77313,0,0,3,16,3.3,4.3,2,53.1,Medium
+1592,33,Non-Binary,Bachelor's,Operations,Senior,4,75316,0,4,0,2,1.8,1.7,1,51.56,Medium
+1593,37,Male,High School,Operations,Senior,0,72396,1,1,5,11,3.8,1.6,4,54.52,Medium
+1594,46,Female,Master's,Marketing,Mid,21,86385,34,0,4,9,2.4,2.2,3,89.07,High
+1595,32,Male,Master's,Finance,Junior,4,42901,12,0,2,4,2.3,3.5,0,68.96,Medium
+1596,32,Female,Master's,Finance,Mid,10,68107,11,2,3,4,3.9,3.9,0,78.06,High
+1597,33,Male,Bachelor's,Marketing,Senior,11,89677,33,15,4,0,3.7,1.4,0,75.42,High
+1598,38,Male,High School,HR,Junior,7,59752,7,4,5,1,3.4,3.3,0,74.46,Medium
+1599,38,Non-Binary,Bachelor's,HR,Mid,15,81263,9,2,5,2,2.6,1.6,1,78.39,High
+1600,35,Female,Bachelor's,Support,Junior,8,45117,5,2,3,27,2.8,2.5,1,57.84,Medium
+1601,43,Male,PhD,Finance,Manager,9,118783,11,4,2,3,3.5,2.4,1,72.26,Medium
+1602,32,Male,Bachelor's,Support,Lead,1,91176,7,10,7,2,2.1,3.0,3,57.7,Medium
+1603,22,Female,High School,Sales,Senior,0,78186,19,8,7,4,3.2,1.4,0,62.84,Medium
+1604,30,Female,Bachelor's,Operations,Mid,1,55630,8,0,6,1,2.6,3.0,1,65.88,Medium
+1605,23,Male,Bachelor's,Marketing,Senior,0,71760,13,1,3,0,2.1,4.1,0,58.3,Medium
+1606,32,Female,High School,Marketing,Junior,1,40685,10,2,7,28,3.6,2.2,0,56.84,Medium
+1607,33,Male,Bachelor's,Support,Mid,6,65866,32,2,2,19,4.0,2.1,4,69.74,Medium
+1608,40,Female,Bachelor's,Sales,Senior,1,69940,10,7,5,34,3.5,3.0,7,33.04,Low
+1609,33,Female,PhD,Sales,Mid,4,61174,40,1,3,0,3.4,2.6,2,82.21,High
+1610,22,Female,Bachelor's,Operations,Junior,0,43018,1,2,5,3,2.8,2.3,4,59.73,Medium
+1611,30,Non-Binary,Bachelor's,Marketing,Mid,5,59393,7,5,5,5,3.1,1.5,1,65.81,Medium
+1612,30,Female,Master's,Finance,Mid,1,56179,8,3,4,1,2.9,1.9,1,64.9,Medium
+1613,44,Male,Master's,Marketing,Junior,3,46291,14,6,3,3,2.8,3.2,2,62.5,Medium
+1614,26,Female,Bachelor's,HR,Senior,3,86639,0,1,6,8,3.6,2.1,2,75.9,High
+1615,38,Female,Master's,Operations,Manager,5,120994,30,3,6,0,3.3,3.9,2,76.62,High
+1616,45,Male,Master's,Support,Mid,11,65399,4,4,6,6,1.8,1.1,1,76.7,High
+1617,35,Male,Bachelor's,Finance,Senior,10,90560,1,0,4,2,3.2,3.1,0,76.81,High
+1618,22,Female,PhD,Operations,Mid,0,58767,71,2,3,2,1.8,2.0,2,61.64,Medium
+1619,41,Male,Bachelor's,Sales,Lead,19,114175,23,3,0,3,2.7,3.5,3,73.8,Medium
+1620,39,Non-Binary,Master's,HR,Senior,7,87593,18,9,3,0,3.5,2.4,0,66.31,Medium
+1621,43,Female,Bachelor's,HR,Lead,17,118662,1,3,5,10,3.9,4.4,7,81.2,High
+1622,43,Male,Bachelor's,Support,Lead,11,101497,48,0,4,2,1.8,1.8,2,82.39,High
+1623,39,Male,Bachelor's,Marketing,Senior,14,99825,16,13,6,3,2.5,2.1,0,67.28,Medium
+1624,37,Male,Master's,Finance,Senior,11,89665,22,7,3,0,3.2,1.6,2,76.22,High
+1625,44,Male,PhD,Engineering,Lead,8,113883,0,0,4,1,4.5,2.1,7,83.68,High
+1626,33,Female,Master's,Marketing,Senior,6,81612,80,7,3,17,2.7,2.9,2,61.89,Medium
+1627,26,Female,Master's,Support,Junior,4,43741,12,3,5,3,3.8,4.2,1,79.51,High
+1628,27,Female,Bachelor's,Support,Senior,3,92926,13,3,3,10,3.4,1.5,0,63.24,Medium
+1629,34,Female,PhD,HR,Senior,5,87086,9,3,5,8,2.4,2.8,7,67.77,Medium
+1630,39,Male,High School,Support,Lead,8,102940,34,0,0,15,2.1,2.5,1,62.46,Medium
+1631,38,Female,Master's,Marketing,Manager,6,116345,1,5,6,5,4.5,1.1,2,82.6,High
+1632,22,Male,Bachelor's,Marketing,Junior,0,36554,48,8,5,8,3.4,2.4,5,69.97,Medium
+1633,42,Female,Master's,Engineering,Mid,9,58401,2,1,5,17,3.1,4.5,3,75.2,High
+1634,22,Male,Bachelor's,Finance,Senior,0,69367,0,3,3,2,3.5,3.7,3,53.03,Medium
+1635,28,Female,Master's,Sales,Manager,3,111755,20,3,5,0,3.0,2.4,3,70.07,Medium
+1636,46,Female,Bachelor's,Operations,Senior,5,78204,9,7,4,14,4.3,3.9,0,56.86,Medium
+1637,24,Male,Master's,Engineering,Mid,1,54051,8,3,7,4,4.4,3.2,0,75.56,High
+1638,33,Male,Bachelor's,Sales,Senior,1,78495,25,0,4,13,4.2,3.4,2,73.0,Medium
+1639,34,Male,Bachelor's,Support,Mid,8,59288,35,4,4,2,2.9,4.7,5,74.46,Medium
+1640,33,Female,Master's,Finance,Lead,5,100540,13,2,2,6,2.6,2.7,0,63.91,Medium
+1641,41,Female,Master's,HR,Mid,2,56415,10,1,0,5,3.1,1.6,1,59.9,Medium
+1642,30,Male,Master's,Marketing,Mid,3,47869,15,1,2,17,2.5,1.4,0,57.59,Medium
+1643,42,Male,Master's,Engineering,Mid,4,63745,5,2,3,3,2.5,1.6,0,62.35,Medium
+1644,38,Female,PhD,Marketing,Mid,2,61724,30,3,5,3,2.5,3.7,3,73.26,Medium
+1645,42,Male,High School,Marketing,Mid,4,63173,6,2,6,5,2.9,4.2,2,66.11,Medium
+1646,44,Male,Bachelor's,Engineering,Mid,11,74386,14,0,3,11,3.0,4.7,3,80.65,High
+1647,43,Female,High School,Sales,Senior,1,76220,22,4,5,13,3.3,1.2,1,56.84,Medium
+1648,28,Female,Master's,Operations,Senior,5,78067,17,0,4,7,3.5,5.0,1,86.28,High
+1649,27,Female,Bachelor's,Sales,Junior,3,42801,3,2,4,30,4.8,4.5,1,57.22,Medium
+1650,27,Male,High School,Sales,Senior,2,80003,4,1,4,22,4.5,1.3,3,48.65,Low
+1651,31,Female,Bachelor's,Marketing,Manager,2,104990,13,8,6,0,4.5,3.8,0,64.65,Medium
+1652,41,Female,Bachelor's,Operations,Mid,14,71567,35,14,5,16,5.0,1.8,0,74.16,Medium
+1653,30,Female,Bachelor's,Operations,Junior,0,46319,20,8,7,3,2.9,3.4,2,67.13,Medium
+1654,32,Male,Bachelor's,Engineering,Senior,6,84241,11,1,6,0,3.0,2.2,2,76.0,High
+1655,29,Female,Bachelor's,Support,Senior,5,81322,14,4,0,1,4.2,2.1,0,63.71,Medium
+1656,29,Male,Bachelor's,Operations,Lead,4,95207,16,1,3,1,3.6,2.1,1,80.07,High
+1657,42,Male,Master's,Sales,Lead,2,95001,36,0,5,5,2.7,4.6,1,77.33,High
+1658,22,Male,Master's,HR,Manager,0,105218,6,1,4,7,3.7,2.3,0,67.26,Medium
+1659,40,Male,Bachelor's,Operations,Junior,9,67790,73,9,4,4,2.4,2.4,4,81.92,High
+1660,41,Female,Master's,Support,Junior,9,49477,13,12,6,10,2.5,2.7,0,70.47,Medium
+1661,23,Female,High School,Engineering,Manager,0,115289,0,1,5,1,2.4,3.1,2,52.44,Medium
+1662,44,Female,Master's,Finance,Lead,14,111506,32,0,4,9,2.7,2.3,2,98.95,High
+1663,41,Female,Master's,Operations,Mid,8,66474,10,5,3,17,3.3,1.1,3,65.51,Medium
+1664,30,Male,High School,Finance,Manager,5,118165,1,0,5,2,4.1,3.5,1,67.16,Medium
+1665,49,Male,Bachelor's,HR,Mid,20,87207,14,0,4,28,3.8,1.5,7,72.96,Medium
+1666,33,Non-Binary,Bachelor's,Marketing,Mid,4,54358,8,2,3,1,2.6,2.8,2,59.54,Medium
+1667,34,Male,Master's,Finance,Mid,7,64700,15,1,4,11,3.5,3.5,1,80.15,High
+1668,31,Male,Bachelor's,HR,Senior,0,67936,59,1,5,3,3.1,4.9,0,74.72,Medium
+1669,31,Female,Bachelor's,Operations,Senior,3,74021,14,10,4,2,2.3,3.5,5,55.91,Medium
+1670,37,Male,Bachelor's,Operations,Mid,8,60459,9,1,6,25,4.5,4.0,0,69.82,Medium
+1671,22,Male,Bachelor's,Engineering,Mid,0,56254,12,2,4,3,3.3,2.3,5,74.44,Medium
+1672,34,Male,Bachelor's,Finance,Mid,7,60264,42,2,4,7,3.9,1.4,5,80.33,High
+1673,31,Female,High School,HR,Junior,7,56322,16,12,4,3,3.2,1.6,6,61.04,Medium
+1674,28,Female,Bachelor's,Engineering,Manager,0,108340,33,8,4,0,3.1,2.5,4,59.62,Medium
+1675,22,Male,Master's,Operations,Junior,0,42269,28,14,6,2,2.3,3.0,5,52.74,Medium
+1676,47,Female,Bachelor's,Finance,Manager,14,127157,3,6,4,15,4.4,1.6,1,74.42,Medium
+1677,22,Male,Master's,Marketing,Junior,0,47149,41,8,4,4,3.2,3.4,2,60.52,Medium
+1678,38,Male,Bachelor's,Operations,Mid,0,50760,20,0,3,23,4.5,1.0,5,60.9,Medium
+1679,32,Female,Master's,Operations,Junior,3,30000,13,1,7,8,2.3,1.9,5,76.41,High
+1680,44,Male,Master's,Engineering,Junior,3,38609,8,5,1,0,4.0,1.3,7,59.72,Medium
+1681,37,Female,High School,Support,Junior,12,45083,7,1,3,23,2.5,3.5,0,66.45,Medium
+1682,42,Male,High School,Sales,Manager,2,112703,0,10,8,15,2.0,1.5,1,47.96,Low
+1683,22,Male,Master's,Marketing,Junior,0,46529,0,2,5,6,4.3,1.4,0,73.5,Medium
+1684,44,Male,Bachelor's,Support,Mid,14,68463,16,4,6,1,3.5,4.8,1,91.76,High
+1685,30,Female,Bachelor's,Engineering,Lead,5,98073,37,2,3,14,3.9,2.6,8,72.41,Medium
+1686,28,Male,Master's,HR,Mid,4,59319,34,0,4,15,4.2,1.6,0,71.68,Medium
+1687,45,Male,Bachelor's,Sales,Mid,15,75071,18,2,0,14,2.6,1.9,0,67.47,Medium
+1688,39,Male,Master's,Support,Mid,1,57332,12,14,3,9,3.2,2.7,0,53.08,Medium
+1689,32,Male,Bachelor's,Support,Lead,2,102204,29,2,5,8,3.0,2.2,0,80.7,High
+1690,25,Male,PhD,Sales,Manager,1,112828,4,0,1,23,4.1,3.6,1,52.58,Medium
+1691,32,Male,Bachelor's,Marketing,Lead,6,100964,21,0,6,2,3.1,3.7,3,84.43,High
+1692,34,Male,Master's,Finance,Mid,9,56866,10,4,6,18,3.4,2.0,4,68.51,Medium
+1693,32,Female,Master's,HR,Mid,10,71510,23,1,7,1,5.0,3.4,0,100.0,High
+1694,37,Non-Binary,High School,HR,Junior,14,53032,39,2,0,1,2.8,3.8,0,78.14,High
+1695,41,Male,Bachelor's,Finance,Lead,18,119841,18,1,8,20,3.7,3.8,1,81.57,High
+1696,22,Male,Bachelor's,Engineering,Senior,0,78221,3,5,5,11,3.3,3.1,0,48.2,Low
+1697,48,Non-Binary,PhD,Finance,Mid,5,62614,1,0,5,3,1.0,2.8,1,64.0,Medium
+1698,36,Female,PhD,Support,Senior,0,73204,7,4,0,14,3.7,4.1,1,51.1,Medium
+1699,22,Male,Bachelor's,Operations,Senior,0,83095,61,2,5,4,2.8,4.7,7,75.54,High
+1700,24,Male,Master's,HR,Lead,1,101986,29,1,4,3,3.7,1.6,0,83.23,High
+1701,26,Female,Bachelor's,Support,Senior,0,76748,0,6,4,10,3.5,2.7,0,49.42,Low
+1702,38,Male,Master's,Support,Senior,4,84488,28,1,4,6,2.5,4.4,3,76.88,High
+1703,23,Male,Bachelor's,Support,Senior,0,70872,3,1,6,6,2.3,2.5,0,63.85,Medium
+1704,22,Male,Master's,Sales,Senior,0,77581,2,1,2,14,3.1,4.8,0,46.19,Low
+1705,34,Female,Master's,Marketing,Manager,3,112696,2,9,3,0,3.9,1.2,1,56.82,Medium
+1706,37,Male,Master's,Marketing,Lead,6,110759,57,1,3,4,3.6,1.4,2,86.69,High
+1707,50,Male,Bachelor's,HR,Mid,0,57532,13,3,7,2,2.2,2.3,8,58.79,Medium
+1708,24,Female,Master's,Operations,Lead,2,99093,0,1,4,18,2.4,2.2,2,50.43,Medium
+1709,43,Male,Bachelor's,Support,Junior,19,55695,15,5,6,2,4.1,4.5,1,90.0,High
+1710,28,Female,Bachelor's,Operations,Junior,4,45437,5,9,3,5,3.6,2.0,0,57.87,Medium
+1711,24,Male,Master's,Engineering,Junior,1,39699,2,0,5,0,2.6,1.4,1,66.21,Medium
+1712,34,Female,Master's,Engineering,Mid,4,60457,17,1,6,0,3.1,2.8,0,78.19,High
+1713,39,Male,Master's,Operations,Mid,6,63314,13,2,5,10,2.3,4.7,4,79.26,High
+1714,35,Male,PhD,HR,Manager,2,113683,9,0,4,2,4.2,1.5,0,76.29,High
+1715,39,Non-Binary,Bachelor's,Support,Junior,16,55507,1,3,3,1,2.9,3.3,0,69.99,Medium
+1716,33,Male,Master's,Finance,Mid,2,55734,28,3,2,9,3.1,1.2,4,64.65,Medium
+1717,51,Non-Binary,Bachelor's,Support,Senior,3,74385,26,1,7,28,3.1,2.7,4,63.09,Medium
+1718,53,Male,Bachelor's,Engineering,Junior,13,47096,51,1,3,11,4.7,2.0,7,92.8,High
+1719,48,Female,High School,Finance,Senior,9,89924,11,1,4,26,3.4,3.5,5,55.36,Medium
+1720,28,Female,Bachelor's,Operations,Mid,1,52227,35,9,0,4,3.5,1.1,1,52.19,Medium
+1721,33,Male,Bachelor's,Operations,Mid,7,62825,8,4,2,15,3.7,1.2,0,59.71,Medium
+1722,39,Non-Binary,Master's,Marketing,Senior,2,69552,1,3,3,17,2.3,3.3,7,54.02,Medium
+1723,36,Female,Bachelor's,Sales,Mid,8,71873,1,2,6,9,2.9,2.4,1,75.07,High
+1724,27,Female,High School,Support,Manager,2,106519,9,6,4,12,3.1,3.8,1,58.03,Medium
+1725,49,Male,Bachelor's,Support,Senior,27,110100,1,9,4,15,2.4,4.6,1,68.85,Medium
+1726,40,Male,Bachelor's,Sales,Junior,8,53976,0,0,1,16,4.6,4.4,1,69.55,Medium
+1727,22,Male,Bachelor's,Support,Mid,0,54472,8,0,4,7,2.6,1.8,5,64.67,Medium
+1728,46,Male,Bachelor's,Engineering,Senior,3,81893,22,6,5,0,3.6,3.9,2,68.38,Medium
+1729,54,Male,Bachelor's,Support,Lead,31,142937,7,2,6,2,3.8,1.6,3,88.52,High
+1730,33,Female,PhD,Support,Lead,4,96793,3,0,7,3,3.0,1.8,8,77.64,High
+1731,47,Male,PhD,HR,Mid,7,59333,34,0,5,6,4.2,2.8,0,82.9,High
+1732,22,Male,High School,Sales,Junior,0,45196,36,0,6,13,4.0,4.5,0,72.45,Medium
+1733,31,Male,Bachelor's,Support,Junior,5,51563,1,0,5,24,3.9,5.0,1,64.39,Medium
+1734,31,Female,PhD,Marketing,Junior,0,45466,60,0,2,0,3.5,5.0,1,72.61,Medium
+1735,23,Male,Bachelor's,Sales,Senior,0,75904,5,2,3,10,3.2,2.3,2,59.95,Medium
+1736,22,Female,Master's,Finance,Junior,0,39701,70,3,4,5,3.2,3.6,1,72.15,Medium
+1737,43,Female,PhD,Marketing,Mid,2,58870,23,2,4,0,2.1,3.8,0,65.48,Medium
+1738,32,Female,High School,Marketing,Junior,10,54479,16,1,4,1,1.1,3.8,5,69.93,Medium
+1739,26,Female,Master's,HR,Senior,1,81365,11,1,5,15,2.4,3.9,0,62.09,Medium
+1740,22,Male,High School,Sales,Manager,0,111727,11,4,6,9,4.3,4.9,0,70.38,Medium
+1741,44,Non-Binary,Bachelor's,HR,Junior,15,58721,7,3,6,8,3.9,4.5,5,82.97,High
+1742,49,Male,Master's,Finance,Senior,20,92677,28,0,9,8,2.4,3.7,5,97.95,High
+1743,31,Male,Master's,Operations,Junior,2,40369,14,3,6,2,2.6,4.7,2,74.84,Medium
+1744,32,Female,Bachelor's,Marketing,Junior,2,41233,30,2,5,50,3.6,4.5,2,44.82,Low
+1745,42,Male,Bachelor's,Operations,Junior,14,57924,80,0,6,17,2.9,4.0,2,87.15,High
+1746,26,Female,Bachelor's,Finance,Senior,4,78879,17,17,8,7,3.8,3.8,3,69.02,Medium
+1747,30,Male,Bachelor's,HR,Junior,7,46101,6,0,5,0,2.6,2.9,0,72.02,Medium
+1748,39,Male,Master's,Sales,Junior,2,31814,7,0,4,18,2.6,1.3,9,60.47,Medium
+1749,32,Male,Bachelor's,Marketing,Manager,4,113731,38,5,5,1,3.9,1.5,0,68.95,Medium
+1750,38,Female,Bachelor's,Operations,Junior,16,62776,0,0,4,5,3.8,3.3,0,80.62,High
+1751,50,Male,Bachelor's,Support,Senior,25,105823,49,1,3,11,2.6,2.5,0,82.64,High
+1752,29,Male,Master's,Marketing,Junior,0,41130,7,0,5,9,2.9,1.6,0,69.37,Medium
+1753,41,Male,Bachelor's,Engineering,Mid,1,52049,7,1,2,15,3.5,2.8,6,49.67,Low
+1754,32,Male,Bachelor's,Marketing,Senior,4,82123,25,2,4,0,3.6,2.6,0,78.48,High
+1755,43,Female,Bachelor's,Operations,Manager,1,104638,5,5,6,4,3.2,4.5,1,66.11,Medium
+1756,32,Female,Bachelor's,Sales,Junior,2,48482,22,6,2,2,4.9,1.1,1,69.3,Medium
+1757,37,Male,Bachelor's,Operations,Mid,14,79753,15,1,5,1,4.1,3.5,1,90.05,High
+1758,44,Female,Master's,HR,Manager,15,126122,20,2,4,18,3.3,2.6,1,88.71,High
+1759,37,Male,Bachelor's,Finance,Manager,10,128826,53,2,4,4,3.9,2.7,0,86.98,High
+1760,39,Female,Master's,Finance,Mid,12,69806,16,1,4,1,3.1,2.0,3,82.33,High
+1761,25,Male,Bachelor's,Operations,Lead,0,97208,41,5,2,2,4.6,4.9,3,70.28,Medium
+1762,31,Female,Bachelor's,Finance,Manager,9,123779,5,1,5,11,4.1,4.5,0,77.84,High
+1763,33,Female,PhD,Marketing,Mid,11,69885,22,2,2,2,3.8,1.5,0,90.59,High
+1764,29,Female,Master's,Sales,Junior,4,52332,4,2,4,1,3.9,2.7,6,74.9,Medium
+1765,26,Female,Bachelor's,Support,Mid,1,54506,19,3,3,7,2.2,4.4,3,54.96,Medium
+1766,41,Male,Bachelor's,Operations,Senior,16,92681,9,2,2,13,4.1,3.1,2,79.53,High
+1767,36,Male,Master's,Marketing,Senior,6,94291,17,1,5,2,3.7,2.8,4,79.39,High
+1768,28,Non-Binary,Bachelor's,Sales,Junior,4,45924,25,1,5,7,4.1,3.0,0,83.97,High
+1769,34,Female,Bachelor's,Sales,Mid,10,59966,13,1,5,2,2.5,3.5,9,78.13,High
+1770,32,Male,Master's,Marketing,Senior,5,76872,42,2,5,0,3.7,1.9,1,85.68,High
+1771,45,Female,Bachelor's,Operations,Mid,19,90108,80,2,4,11,3.4,2.5,0,92.74,High
+1772,22,Female,High School,Operations,Manager,0,104863,27,3,1,8,3.0,5.0,0,52.46,Medium
+1773,29,Non-Binary,Bachelor's,Operations,Senior,3,84328,43,2,6,1,3.4,4.9,3,65.77,Medium
+1774,33,Male,PhD,Finance,Senior,4,83535,6,2,5,25,3.6,3.5,2,57.16,Medium
+1775,34,Female,Bachelor's,Operations,Mid,5,60361,47,8,4,6,3.0,3.8,2,72.29,Medium
+1776,27,Male,Bachelor's,Engineering,Senior,0,68612,8,4,7,5,2.9,4.2,0,66.56,Medium
+1777,39,Female,PhD,Engineering,Junior,8,49906,10,2,4,12,4.4,2.7,0,77.57,High
+1778,33,Male,Master's,Finance,Mid,3,50383,6,9,2,11,3.3,3.1,5,52.89,Medium
+1779,22,Female,High School,Support,Mid,0,65208,34,8,5,25,4.8,1.5,3,53.39,Medium
+1780,27,Female,Bachelor's,Finance,Mid,1,57164,10,1,8,50,3.0,4.9,0,40.13,Low
+1781,38,Male,Master's,HR,Senior,11,97597,54,4,5,4,1.9,3.2,1,83.86,High
+1782,42,Male,Master's,Support,Senior,5,80887,8,0,6,2,3.5,4.7,0,82.98,High
+1783,26,Male,Bachelor's,Engineering,Manager,4,120342,30,0,3,1,3.9,1.9,1,70.75,Medium
+1784,30,Female,Master's,Support,Senior,7,93207,8,1,2,11,2.0,1.8,4,64.37,Medium
+1785,23,Female,Bachelor's,Engineering,Junior,0,36098,35,7,3,3,3.7,1.3,0,65.67,Medium
+1786,39,Female,High School,Finance,Senior,16,98801,34,2,2,10,2.3,3.7,3,74.03,Medium
+1787,33,Male,Bachelor's,Support,Mid,4,56042,6,1,5,17,3.9,2.4,1,65.0,Medium
+1788,39,Female,High School,Marketing,Junior,11,50634,21,0,3,3,3.4,3.6,3,78.92,High
+1789,47,Male,Master's,Support,Senior,7,90429,10,6,4,0,1.7,3.9,1,59.24,Medium
+1790,35,Female,Bachelor's,Finance,Senior,8,85691,30,1,6,9,3.0,4.1,3,91.35,High
+1791,32,Female,Bachelor's,Marketing,Senior,3,93816,14,0,3,6,3.0,1.4,0,69.65,Medium
+1792,29,Female,High School,Finance,Senior,5,91170,5,2,5,3,3.4,3.0,0,66.21,Medium
+1793,33,Male,Bachelor's,Operations,Senior,5,72089,9,6,9,18,2.4,4.5,5,59.74,Medium
+1794,27,Non-Binary,Bachelor's,Sales,Lead,3,100506,20,3,6,10,2.5,1.2,1,69.01,Medium
+1795,49,Female,Master's,Marketing,Mid,6,63738,25,6,8,4,2.8,3.7,3,76.71,High
+1796,32,Male,Master's,Sales,Senior,0,66741,10,5,5,16,4.3,4.7,0,51.69,Medium
+1797,30,Female,Bachelor's,HR,Junior,3,44152,27,1,6,2,3.9,3.9,3,75.44,High
+1798,31,Male,Master's,Support,Senior,7,86878,5,17,3,6,2.6,2.0,0,54.33,Medium
+1799,39,Male,Master's,Sales,Junior,13,52560,12,0,2,3,4.6,3.6,1,86.41,High
+1800,35,Female,High School,Finance,Lead,12,111654,33,7,5,6,2.4,2.3,2,76.41,High
+1801,35,Non-Binary,PhD,Sales,Senior,10,84730,9,3,3,3,3.2,1.1,0,79.51,High
+1802,38,Male,Master's,HR,Lead,6,100732,7,0,5,7,4.7,4.0,1,79.87,High
+1803,37,Male,Bachelor's,Finance,Junior,9,56926,34,1,3,10,2.8,3.5,0,78.71,High
+1804,33,Male,PhD,Engineering,Mid,4,55508,31,12,3,4,4.8,2.7,2,70.31,Medium
+1805,30,Female,High School,Engineering,Lead,2,100690,13,3,6,2,1.9,1.2,0,62.5,Medium
+1806,33,Male,Bachelor's,Support,Mid,7,59946,38,27,3,3,3.5,3.4,0,47.17,Low
+1807,43,Male,Bachelor's,Finance,Mid,20,72519,10,0,6,6,2.8,2.8,0,82.07,High
+1808,31,Male,Bachelor's,Engineering,Mid,4,62765,2,1,7,3,1.8,1.5,2,69.08,Medium
+1809,39,Male,PhD,Sales,Mid,14,59459,8,0,8,9,3.9,4.5,1,100.0,High
+1810,26,Female,Bachelor's,Finance,Mid,2,58948,65,0,5,2,3.3,1.6,0,75.18,High
+1811,28,Male,Bachelor's,Engineering,Manager,3,112270,41,8,7,13,4.7,4.1,5,75.86,High
+1812,35,Male,Master's,Sales,Junior,11,56126,56,4,0,8,3.6,2.0,2,83.02,High
+1813,33,Male,Bachelor's,Operations,Senior,9,92754,15,1,7,6,3.9,1.2,0,85.51,High
+1814,27,Female,Master's,Support,Junior,0,42633,17,0,6,7,2.8,1.5,0,66.89,Medium
+1815,31,Female,Bachelor's,Engineering,Manager,0,112578,5,2,6,2,4.3,3.0,6,66.37,Medium
+1816,42,Female,Bachelor's,Marketing,Senior,1,78464,3,0,4,4,3.8,1.5,0,66.0,Medium
+1817,32,Female,Bachelor's,HR,Junior,10,47647,23,8,4,29,3.1,1.1,7,60.06,Medium
+1818,24,Female,Bachelor's,Marketing,Junior,0,35313,16,6,3,10,4.8,2.0,1,67.5,Medium
+1819,27,Male,Bachelor's,Sales,Mid,2,50440,2,0,5,4,4.8,3.5,4,81.63,High
+1820,27,Female,Bachelor's,Operations,Senior,1,77924,14,10,5,4,3.3,2.1,0,57.21,Medium
+1821,38,Female,Bachelor's,Finance,Junior,16,55227,5,5,4,5,2.6,2.1,1,74.95,Medium
+1822,30,Female,Master's,Support,Lead,8,100725,13,4,3,2,2.2,2.4,0,67.98,Medium
+1823,33,Female,Bachelor's,Finance,Senior,5,78707,34,5,7,14,1.6,1.1,4,66.78,Medium
+1824,31,Male,Bachelor's,Operations,Mid,3,61446,4,4,5,0,3.3,1.4,0,60.58,Medium
+1825,32,Female,Bachelor's,Sales,Manager,6,122394,0,1,6,3,4.1,4.2,0,69.4,Medium
+1826,22,Male,High School,Operations,Junior,0,40717,25,5,6,2,2.2,1.2,0,59.73,Medium
+1827,43,Female,Bachelor's,Operations,Mid,2,68796,7,0,2,6,2.9,3.8,1,55.99,Medium
+1828,25,Male,Master's,Engineering,Senior,1,74841,1,0,1,0,3.2,4.4,0,53.02,Medium
+1829,27,Male,PhD,HR,Mid,2,50285,34,0,5,3,2.7,3.3,0,77.33,High
+1830,22,Female,Master's,Support,Lead,0,97133,3,0,6,20,3.2,2.3,2,56.79,Medium
+1831,39,Female,Master's,Sales,Junior,4,36474,7,7,2,10,3.4,1.8,1,54.34,Medium
+1832,41,Non-Binary,PhD,Finance,Junior,2,44678,25,4,3,3,3.4,2.9,3,66.87,Medium
+1833,31,Male,Bachelor's,Support,Junior,3,42313,0,0,3,8,4.1,3.9,2,69.59,Medium
+1834,36,Male,Bachelor's,Engineering,Lead,13,105337,46,0,5,3,2.5,4.2,4,81.57,High
+1835,26,Male,Bachelor's,Marketing,Junior,2,42824,0,1,3,0,4.2,3.1,0,68.99,Medium
+1836,36,Male,Master's,Support,Junior,6,52892,2,1,6,0,2.4,2.7,3,70.26,Medium
+1837,24,Male,Master's,Engineering,Manager,1,105316,5,4,4,9,4.2,3.6,0,68.28,Medium
+1838,38,Female,High School,Sales,Mid,11,59104,15,0,8,4,4.0,2.0,5,92.92,High
+1839,40,Male,Bachelor's,Finance,Senior,11,84928,5,2,6,0,3.0,4.6,2,83.81,High
+1840,49,Male,High School,Sales,Senior,12,93928,70,4,5,11,2.8,2.8,0,87.12,High
+1841,28,Female,Master's,Finance,Senior,2,84222,16,11,5,11,4.6,2.5,3,58.41,Medium
+1842,29,Male,Bachelor's,Finance,Mid,2,61530,4,7,5,1,2.6,4.8,5,55.79,Medium
+1843,42,Male,Bachelor's,HR,Senior,8,79611,29,0,6,6,2.4,1.8,5,83.11,High
+1844,22,Non-Binary,Bachelor's,Operations,Senior,0,64963,27,9,2,11,3.5,2.6,2,54.95,Medium
+1845,34,Female,Master's,Sales,Junior,8,41189,1,4,8,2,5.0,3.4,0,85.41,High
+1846,33,Female,Bachelor's,Marketing,Mid,10,65341,3,3,1,2,2.9,1.1,0,58.78,Medium
+1847,36,Female,Bachelor's,Finance,Senior,1,81471,4,1,4,23,1.9,2.8,2,49.35,Low
+1848,38,Male,PhD,Finance,Junior,6,42348,21,0,6,0,4.3,2.3,2,89.38,High
+1849,35,Female,Bachelor's,Sales,Junior,1,33904,55,13,5,9,3.5,1.5,5,62.73,Medium
+1850,31,Female,Bachelor's,Operations,Mid,3,50408,9,6,4,14,3.0,4.5,0,49.3,Low
+1851,32,Female,Master's,Engineering,Senior,1,79892,24,5,5,7,2.4,1.1,1,75.44,High
+1852,39,Female,Bachelor's,Marketing,Mid,4,62842,38,0,4,0,3.2,3.2,3,79.0,High
+1853,41,Male,PhD,HR,Mid,8,66104,29,14,2,18,1.8,1.6,0,56.31,Medium
+1854,47,Male,PhD,Marketing,Junior,5,41077,0,0,0,3,2.3,2.7,2,64.11,Medium
+1855,45,Female,PhD,Marketing,Manager,23,138261,9,1,5,16,4.1,4.2,2,83.9,High
+1856,36,Non-Binary,Bachelor's,Finance,Junior,2,48673,37,5,7,4,4.4,3.1,1,82.93,High
+1857,42,Female,Master's,Support,Senior,10,93743,22,2,9,28,4.3,2.4,1,79.44,High
+1858,41,Male,Bachelor's,Marketing,Mid,10,65986,27,5,4,49,3.6,1.5,2,54.39,Medium
+1859,36,Male,Bachelor's,Operations,Manager,7,119404,31,0,5,2,3.2,4.2,1,85.02,High
+1860,26,Male,Master's,HR,Mid,1,55631,40,2,5,6,2.6,4.6,9,77.07,High
+1861,32,Female,Bachelor's,Support,Junior,2,43804,4,3,3,0,4.0,2.9,3,59.64,Medium
+1862,29,Male,Bachelor's,Finance,Junior,5,42068,51,3,5,2,2.9,2.7,0,74.2,Medium
+1863,36,Male,Master's,Support,Mid,9,62680,1,1,3,0,3.8,2.1,0,72.54,Medium
+1864,30,Non-Binary,High School,Support,Junior,4,47502,55,0,6,3,3.8,3.0,0,79.79,High
+1865,40,Male,Bachelor's,Finance,Lead,16,117248,55,2,7,9,3.5,5.0,0,93.35,High
+1866,27,Male,Master's,Support,Junior,4,39438,5,3,6,11,3.3,4.6,4,71.49,Medium
+1867,22,Female,High School,HR,Junior,0,47263,7,2,1,19,3.4,2.9,1,44.78,Low
+1868,41,Male,Bachelor's,Sales,Senior,2,74684,72,2,3,7,3.2,1.3,0,65.81,Medium
+1869,50,Male,Master's,Support,Mid,12,72682,2,0,3,0,3.8,4.9,9,80.29,High
+1870,34,Male,Master's,Support,Mid,6,63441,2,1,5,16,1.2,2.2,0,62.24,Medium
+1871,29,Female,Master's,Sales,Senior,4,83766,12,6,7,17,2.1,2.6,0,52.39,Medium
+1872,36,Male,Bachelor's,Operations,Mid,9,69269,3,2,6,0,3.2,2.0,2,74.56,Medium
+1873,27,Female,Bachelor's,Engineering,Senior,5,82241,2,1,5,14,4.1,3.1,1,67.68,Medium
+1874,39,Female,Bachelor's,Operations,Junior,1,49259,8,1,5,21,3.0,2.4,3,55.01,Medium
+1875,22,Female,Bachelor's,Marketing,Junior,0,45644,1,15,2,9,3.5,4.1,1,42.55,Low
+1876,32,Female,Master's,Marketing,Junior,10,46598,38,4,3,0,3.5,1.3,6,79.09,High
+1877,39,Male,Master's,HR,Mid,16,66080,0,5,2,6,3.3,4.1,5,73.39,Medium
+1878,39,Female,High School,Operations,Senior,1,71878,36,3,4,9,3.9,1.5,2,75.11,High
+1879,42,Male,Bachelor's,Marketing,Junior,8,47794,49,2,7,0,2.7,1.4,2,88.89,High
+1880,34,Male,PhD,Operations,Senior,10,91436,8,0,7,6,3.7,2.8,2,91.99,High
+1881,22,Male,Bachelor's,Operations,Junior,0,45035,0,0,4,13,2.5,4.6,0,60.7,Medium
+1882,38,Female,Bachelor's,Finance,Junior,7,56471,35,6,0,0,4.3,3.7,0,74.98,Medium
+1883,24,Male,Bachelor's,Marketing,Junior,1,53388,3,7,8,18,1.6,2.2,0,42.4,Low
+1884,32,Male,Bachelor's,Marketing,Manager,1,117303,2,1,8,6,3.6,4.9,0,70.73,Medium
+1885,22,Male,Master's,Sales,Senior,0,77668,13,2,1,3,2.1,4.3,0,61.6,Medium
+1886,27,Female,Bachelor's,Support,Lead,0,96812,4,3,7,2,2.3,1.3,10,55.41,Medium
+1887,26,Male,Bachelor's,Sales,Mid,4,60034,5,2,4,11,2.0,3.1,0,63.27,Medium
+1888,28,Male,Bachelor's,Marketing,Junior,4,35203,24,3,6,5,5.0,3.6,0,86.05,High
+1889,31,Male,PhD,Sales,Junior,7,47054,7,7,5,8,4.0,3.8,2,83.15,High
+1890,27,Male,Bachelor's,Sales,Mid,5,58668,29,0,2,8,2.9,3.3,0,79.76,High
+1891,29,Non-Binary,Master's,Engineering,Manager,6,106465,31,1,0,9,2.9,1.4,2,70.5,Medium
+1892,39,Female,Bachelor's,Marketing,Lead,13,113086,20,2,5,16,3.7,2.6,0,82.57,High
+1893,22,Female,Master's,Operations,Lead,0,101228,79,4,5,9,4.0,3.8,3,79.73,High
+1894,22,Male,Master's,Support,Manager,0,109528,14,0,5,13,4.4,1.4,0,70.22,Medium
+1895,33,Male,Bachelor's,HR,Mid,6,66930,62,1,6,2,2.7,4.3,0,87.47,High
+1896,37,Male,PhD,HR,Junior,14,56807,10,0,1,3,2.8,1.7,1,79.21,High
+1897,43,Female,Master's,Sales,Senior,9,91982,23,0,5,2,3.6,4.1,0,91.93,High
+1898,41,Male,Master's,Sales,Senior,0,69967,11,2,4,5,3.3,3.5,5,67.36,Medium
+1899,46,Male,Bachelor's,Support,Senior,17,93746,2,0,7,34,4.7,4.5,1,67.21,Medium
+1900,27,Male,Master's,Support,Senior,2,77917,30,2,5,0,4.0,1.8,10,77.53,High
+1901,33,Female,PhD,HR,Junior,2,36751,9,0,1,3,2.9,1.4,1,68.13,Medium
+1902,38,Male,Bachelor's,Operations,Senior,13,93392,55,0,4,1,2.8,1.4,3,92.47,High
+1903,22,Male,High School,HR,Manager,0,113560,35,7,6,3,4.1,2.2,0,68.59,Medium
+1904,53,Male,Master's,HR,Manager,7,111610,45,3,7,1,2.8,1.5,0,76.74,High
+1905,24,Male,Bachelor's,Operations,Senior,1,78892,19,5,5,1,3.3,4.8,1,63.08,Medium
+1906,37,Male,High School,Marketing,Mid,7,63231,8,2,2,3,2.8,1.7,1,66.09,Medium
+1907,26,Female,Bachelor's,HR,Mid,4,58617,8,2,4,6,4.0,4.8,5,72.59,Medium
+1908,24,Female,Bachelor's,Support,Mid,1,54105,80,1,5,0,3.5,3.5,6,74.56,Medium
+1909,39,Male,Master's,Operations,Manager,16,117257,72,1,4,4,3.2,1.3,1,90.24,High
+1910,26,Male,Bachelor's,Operations,Junior,3,49360,59,4,2,11,2.6,1.1,0,67.59,Medium
+1911,39,Male,Bachelor's,Support,Lead,11,107253,54,5,4,4,2.9,1.7,1,83.69,High
+1912,34,Male,Master's,Finance,Mid,4,47305,14,3,2,5,4.0,2.8,0,76.01,High
+1913,23,Male,Master's,Operations,Junior,1,44165,7,1,2,2,3.5,2.7,1,73.47,Medium
+1914,39,Male,Bachelor's,Operations,Lead,17,107178,16,0,9,4,4.1,4.0,2,100.0,High
+1915,31,Male,Bachelor's,Operations,Senior,3,70598,29,8,2,4,4.2,1.6,0,67.06,Medium
+1916,34,Male,High School,Sales,Mid,5,57864,80,0,7,7,3.4,5.0,4,83.54,High
+1917,33,Female,Master's,Finance,Junior,2,37594,2,1,3,5,1.8,1.7,8,62.6,Medium
+1918,55,Female,Master's,Sales,Senior,18,94999,9,6,5,5,3.0,2.5,5,85.04,High
+1919,36,Male,High School,Marketing,Lead,4,97883,4,4,1,5,3.8,2.0,4,55.92,Medium
+1920,28,Male,Master's,Engineering,Senior,4,76592,42,3,7,13,2.0,3.2,1,73.57,Medium
+1921,35,Female,Master's,Support,Junior,6,45040,11,1,0,1,3.0,1.8,6,65.37,Medium
+1922,38,Female,Bachelor's,Sales,Senior,2,74845,41,2,7,0,2.7,4.2,0,75.31,High
+1923,43,Male,Master's,HR,Senior,17,93690,19,1,3,20,2.9,1.7,2,70.14,Medium
+1924,44,Female,Bachelor's,Operations,Mid,10,64048,15,1,4,6,4.1,1.4,1,80.09,High
+1925,41,Female,Master's,Engineering,Senior,18,96781,69,0,5,6,2.5,1.1,0,97.22,High
+1926,32,Female,PhD,Marketing,Junior,9,42740,13,8,8,2,3.1,4.3,3,79.35,High
+1927,34,Male,Bachelor's,Marketing,Lead,12,108141,8,2,4,5,4.1,4.3,3,89.49,High
+1928,34,Non-Binary,Master's,Sales,Mid,1,59085,44,2,4,6,2.8,3.9,1,64.98,Medium
+1929,32,Male,Master's,Operations,Mid,8,58356,67,6,5,2,2.6,4.3,2,78.51,High
+1930,22,Non-Binary,Bachelor's,Sales,Lead,0,91075,13,6,6,13,3.6,1.8,1,62.77,Medium
+1931,50,Female,Bachelor's,Sales,Manager,7,115561,10,4,6,10,3.2,3.3,5,78.1,High
+1932,45,Female,Master's,Support,Senior,8,84728,10,7,5,10,2.6,2.9,4,71.49,Medium
+1933,31,Male,Bachelor's,Engineering,Lead,3,92078,3,1,3,11,4.1,1.1,1,63.55,Medium
+1934,32,Female,Master's,Support,Junior,10,49499,17,2,6,4,3.1,1.3,7,90.44,High
+1935,42,Male,Bachelor's,Support,Junior,3,43377,8,2,6,4,3.3,1.3,1,73.44,Medium
+1936,26,Male,Bachelor's,Sales,Mid,2,59557,7,6,4,2,2.2,3.0,2,60.29,Medium
+1937,22,Female,PhD,Operations,Mid,0,55426,12,0,2,5,3.1,3.2,1,68.62,Medium
+1938,38,Male,Bachelor's,HR,Junior,16,70774,10,2,5,0,4.7,2.7,5,83.56,High
+1939,35,Female,Master's,Support,Senior,10,74760,42,0,7,4,2.8,2.3,1,86.93,High
+1940,34,Male,Bachelor's,Operations,Mid,2,62766,5,1,6,37,4.3,2.8,3,47.63,Low
+1941,56,Female,Bachelor's,Marketing,Senior,6,76092,15,23,3,12,3.3,2.6,0,43.17,Low
+1942,37,Male,Bachelor's,Finance,Junior,4,45662,4,0,10,1,3.2,4.5,4,80.27,High
+1943,27,Female,Master's,HR,Lead,1,103452,51,0,1,2,3.6,3.6,0,70.0,Medium
+1944,41,Male,PhD,HR,Senior,16,91380,40,2,0,6,4.3,3.3,0,94.35,High
+1945,40,Female,Master's,Engineering,Mid,0,65912,27,0,4,16,2.8,1.6,0,64.45,Medium
+1946,28,Male,Bachelor's,Marketing,Senior,0,69976,58,10,5,2,2.9,4.7,1,59.92,Medium
+1947,36,Male,PhD,Finance,Junior,13,60506,12,10,5,1,2.1,2.8,2,66.68,Medium
+1948,45,Male,Bachelor's,Operations,Senior,11,90916,22,0,1,5,4.1,4.5,0,86.71,High
+1949,34,Male,Bachelor's,Finance,Mid,6,58342,6,10,7,0,3.0,2.3,0,60.3,Medium
+1950,33,Female,Bachelor's,Sales,Mid,7,69123,8,1,4,33,2.9,1.1,0,53.94,Medium
+1951,36,Female,Master's,Sales,Junior,3,40934,0,0,3,7,3.0,3.6,1,67.12,Medium
+1952,48,Male,Master's,Operations,Mid,9,72170,11,2,0,2,3.5,4.1,0,67.25,Medium
+1953,42,Male,Master's,Finance,Lead,11,104354,16,0,5,2,1.8,1.8,0,83.91,High
+1954,30,Female,PhD,Engineering,Junior,2,38384,9,6,3,19,3.4,3.5,1,48.56,Low
+1955,36,Male,Bachelor's,Support,Junior,1,34716,54,1,4,13,3.7,1.8,0,67.44,Medium
+1956,28,Female,PhD,Finance,Manager,6,115169,35,8,3,1,3.8,2.9,0,74.33,Medium
+1957,46,Non-Binary,PhD,Sales,Senior,22,99356,24,2,4,1,3.6,2.3,2,96.11,High
+1958,22,Female,Master's,Operations,Junior,0,46931,35,3,7,5,2.1,1.7,2,75.7,High
+1959,40,Female,Bachelor's,Finance,Mid,11,64719,3,1,3,7,2.5,2.5,1,71.96,Medium
+1960,35,Female,Master's,Operations,Senior,13,95687,23,4,4,3,3.4,1.9,2,88.8,High
+1961,36,Female,Bachelor's,Support,Senior,5,74918,11,1,6,1,1.6,3.1,0,72.42,Medium
+1962,27,Male,Master's,Engineering,Senior,4,78591,16,4,5,1,3.2,1.2,6,73.66,Medium
+1963,22,Female,Bachelor's,Engineering,Mid,0,50451,8,0,4,35,3.2,1.1,0,43.48,Low
+1964,37,Male,Bachelor's,Support,Senior,14,98525,18,10,3,4,3.8,1.2,0,76.46,High
+1965,27,Non-Binary,Master's,Operations,Mid,4,63291,3,2,3,14,3.9,3.6,1,67.59,Medium
+1966,33,Male,Master's,Finance,Mid,0,49024,5,2,6,18,3.4,2.2,4,58.37,Medium
+1967,34,Male,Bachelor's,Support,Mid,2,64873,2,2,6,2,4.1,2.7,4,70.12,Medium
+1968,24,Female,Bachelor's,Operations,Lead,0,100366,3,2,6,5,2.1,3.7,0,56.05,Medium
+1969,36,Male,Master's,Marketing,Junior,13,52705,12,0,4,3,4.0,3.2,7,90.72,High
+1970,42,Male,Bachelor's,Operations,Senior,9,83699,7,2,0,3,2.0,5.0,1,64.94,Medium
+1971,35,Female,Bachelor's,Operations,Junior,9,50796,29,1,7,19,1.9,4.2,2,76.18,High
+1972,30,Male,High School,Sales,Senior,4,73251,19,5,5,10,3.5,1.3,1,69.84,Medium
+1973,40,Male,Master's,HR,Mid,8,71489,4,1,2,17,4.7,1.9,0,74.96,Medium
+1974,36,Female,Master's,Engineering,Mid,7,60458,30,8,3,10,2.5,1.2,1,68.01,Medium
+1975,32,Male,PhD,Finance,Lead,9,106535,31,1,2,33,2.6,4.4,6,60.02,Medium
+1976,46,Male,PhD,HR,Mid,16,86041,10,1,6,0,3.9,3.7,2,95.61,High
+1977,29,Male,Master's,Support,Mid,0,53473,8,6,1,12,3.3,1.9,0,51.76,Medium
+1978,22,Non-Binary,Master's,Engineering,Senior,0,74331,21,12,6,0,2.7,3.0,0,57.5,Medium
+1979,32,Male,Bachelor's,Engineering,Senior,2,74337,10,0,5,7,3.0,3.8,2,70.12,Medium
+1980,29,Male,Bachelor's,Finance,Senior,3,77635,1,0,5,6,2.6,3.6,1,68.89,Medium
+1981,42,Female,Master's,Finance,Mid,6,60457,15,4,7,13,3.0,3.9,1,78.35,High
+1982,22,Female,Bachelor's,Marketing,Mid,0,54829,4,7,2,2,2.3,2.6,5,48.7,Low
+1983,38,Male,Master's,Finance,Mid,3,60959,3,0,6,2,2.6,3.9,0,70.73,Medium
+1984,34,Male,Bachelor's,Marketing,Mid,7,61288,41,2,8,1,2.6,4.7,1,92.32,High
+1985,30,Male,Master's,Engineering,Lead,5,105683,49,1,6,21,3.7,1.5,0,76.42,High
+1986,50,Male,Bachelor's,Operations,Senior,3,77220,13,4,5,0,3.1,4.8,0,69.13,Medium
+1987,45,Male,Bachelor's,Operations,Mid,9,61923,1,5,4,10,2.7,2.6,0,68.93,Medium
+1988,40,Male,Bachelor's,Support,Mid,4,55925,11,2,7,9,3.4,2.9,3,81.12,High
+1989,33,Female,Bachelor's,Marketing,Junior,7,44363,21,13,3,17,4.8,3.8,1,63.64,Medium
+1990,41,Male,Bachelor's,Finance,Senior,12,81349,9,0,5,2,3.7,3.6,0,87.34,High
+1991,47,Male,Master's,Marketing,Mid,11,62212,5,1,5,12,3.1,2.8,0,77.45,High
+1992,37,Female,Master's,HR,Senior,3,84736,34,0,8,9,3.8,3.9,1,83.7,High
+1993,41,Female,Master's,Finance,Senior,5,79912,4,1,6,1,3.5,4.3,4,81.07,High
+1994,38,Male,Master's,Operations,Mid,7,64681,16,9,4,5,3.8,2.3,1,73.49,Medium
+1995,36,Male,High School,Support,Junior,8,40708,13,2,3,1,2.0,1.5,0,66.07,Medium
+1996,40,Female,Bachelor's,Finance,Senior,1,74428,7,0,6,8,1.4,4.6,0,72.49,Medium
+1997,31,Male,Master's,Sales,Lead,2,103605,6,1,0,1,3.0,1.7,1,66.84,Medium
+1998,45,Female,Bachelor's,Support,Mid,16,73148,5,1,3,2,2.9,4.7,0,77.73,High
+1999,34,Male,PhD,Engineering,Mid,7,62675,7,0,3,7,3.1,3.5,0,74.89,Medium
+2000,22,Male,Master's,Marketing,Junior,0,34391,0,1,2,17,3.1,1.1,1,49.77,Low
