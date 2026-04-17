@@ -289,8 +289,9 @@ jupyter notebook notebooks/01_EDA_and_Model.ipynb
 ## 👨‍💻 Author
 
 **KONIJETI VENKATA SESHU BABU**  
-B.Tech [ECE] | [SRKR ENGINEERING COLLEGE]  
-📧 seshubabukv1200@gmail.com 
+B.Tech [ECE] | [SRKR ENGINEERING COLLEGE] 
+
+📧seshubabukv1200@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/seshu-babu-konijeti-74968b2b9?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [GitHub]([GITHUB](https://github.com/seshu-8)
 
 ---
