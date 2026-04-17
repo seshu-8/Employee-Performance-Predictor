@@ -291,7 +291,7 @@ jupyter notebook notebooks/01_EDA_and_Model.ipynb
 **[Your Name]**  
 B.Tech [Your Branch] | [Your College]  
 📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/seshu-babu-konijeti-74968b2b9?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [GitHub]([https://github.com](https://github.com/seshu-8)
 
 ---
 
